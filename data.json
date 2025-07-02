@@ -1,0 +1,6292 @@
+[
+  {
+    "id": "q1",
+    "question": "Who is the author of the book 'The God of Small Things'?",
+    "options": ["Arundhati Roy", "Kiran Desai", "Jhumpa Lahiri", "Vikram Seth"],
+    "answer": "Arundhati Roy",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q2",
+    "question": "In which year did India win its first Cricket World Cup?",
+    "options": ["1983", "1975", "2011", "2003"],
+    "answer": "1983",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q3",
+    "question": "What does ISRO stand for?",
+    "options": ["Indian Space Research Organisation", "International Space Research Organisation", "Indian Satellite Research Organisation", "Indian Space Rocket Organisation"],
+    "answer": "Indian Space Research Organisation",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q4",
+    "question": "Who is known as the 'Shahenshah' of Bollywood?",
+    "options": ["Shah Rukh Khan", "Amitabh Bachchan", "Dilip Kumar", "Salman Khan"],
+    "answer": "Amitabh Bachchan",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q5",
+    "question": "What does UPI stand for in the Indian banking system?",
+    "options": ["Unified Payments Interface", "Union Payment Interface", "Unique Payments Identity", "Unified Protocol for India"],
+    "answer": "Unified Payments Interface",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q6",
+    "question": "The famous 'Madhubani' paintings are native to which Indian state?",
+    "options": ["Rajasthan", "Bihar", "West Bengal", "Kerala"],
+    "answer": "Bihar",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q7",
+    "question": "Who was the first Indian to win an individual Olympic gold medal?",
+    "options": ["Leander Paes", "Neeraj Chopra", "Abhinav Bindra", "Karnam Malleswari"],
+    "answer": "Abhinav Bindra",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q8",
+    "question": "The 'Raman Effect' is a phenomenon in physics discovered by which Indian scientist?",
+    "options": ["Homi J. Bhabha", "C. V. Raman", "Jagdish Chandra Bose", "S. N. Bose"],
+    "answer": "C. V. Raman",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q9",
+    "question": "A.R. Rahman won two Academy Awards (Oscars) for which film?",
+    "options": ["Lagaan", "Roja", "Slumdog Millionaire", "Dil Se"],
+    "answer": "Slumdog Millionaire",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q10",
+    "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+    "options": ["Hyderabad", "Pune", "Bengaluru", "Mumbai"],
+    "answer": "Bengaluru",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q11",
+    "question": "Who wrote the Indian national anthem, 'Jana Gana Mana'?",
+    "options": ["Bankim Chandra Chatterjee", "Sarojini Naidu", "Rabindranath Tagore", "Muhammad Iqbal"],
+    "answer": "Rabindranath Tagore",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q12",
+    "question": "How many players are on the court per team in a standard game of Kabaddi?",
+    "options": ["5", "7", "9", "11"],
+    "answer": "7",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q13",
+    "question": "Which planet in our solar system is known as the 'Red Planet'?",
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "answer": "Mars",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q14",
+    "question": "Who directed the iconic Bollywood film 'Sholay'?",
+    "options": ["Yash Chopra", "Ramesh Sippy", "Raj Kapoor", "Manmohan Desai"],
+    "answer": "Ramesh Sippy",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q15",
+    "question": "Who is the current CEO of Google's parent company, Alphabet Inc.?",
+    "options": ["Satya Nadella", "Tim Cook", "Sundar Pichai", "Jeff Bezos"],
+    "answer": "Sundar Pichai",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q16",
+    "question": "Who painted the 'Mona Lisa'?",
+    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Michelangelo"],
+    "answer": "Leonardo da Vinci",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q17",
+    "question": "The term 'Grand Slam' is associated with which sport?",
+    "options": ["Cricket", "Football", "Tennis", "Golf"],
+    "answer": "Tennis",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q18",
+    "question": "What is the chemical symbol for Gold?",
+    "options": ["Ag", "Au", "Go", "Gd"],
+    "answer": "Au",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q19",
+    "question": "What is the name of the fictional kingdom in the 'Baahubali' film series?",
+    "options": ["Kuntala", "Magadh", "Mahishmati", "Avantika"],
+    "answer": "Mahishmati",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q20",
+    "question": "What does 'www' stand for in a website address?",
+    "options": ["World Wide Web", "World Web Wires", "World Wide Warehouse", "Web World Wide"],
+    "answer": "World Wide Web",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q21",
+    "question": "'The Adventures of Tom Sawyer' was written by which American author?",
+    "options": ["Herman Melville", "Mark Twain", "F. Scott Fitzgerald", "Ernest Hemingway"],
+    "answer": "Mark Twain",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q22",
+    "question": "Which country has won the most FIFA World Cups?",
+    "options": ["Germany", "Argentina", "Italy", "Brazil"],
+    "answer": "Brazil",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q23",
+    "question": "India's Mars Orbiter Mission is also known by what name?",
+    "options": ["Chandrayaan", "Gaganyaan", "Mangalyaan", "Aditya-L1"],
+    "answer": "Mangalyaan",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q24",
+    "question": "Which band is famously known as the 'Fab Four'?",
+    "options": ["The Rolling Stones", "Queen", "The Beatles", "Led Zeppelin"],
+    "answer": "The Beatles",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q25",
+    "question": "Which of these is a programming language?",
+    "options": ["HTML", "JPEG", "Python", "HTTP"],
+    "answer": "Python",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q26",
+    "question": "The Jnanpith Award is India's highest honor in which field?",
+    "options": ["Sports", "Literature", "Science", "Cinema"],
+    "answer": "Literature",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q27",
+    "question": "Mary Kom is a famous Indian athlete in which sport?",
+    "options": ["Wrestling", "Weightlifting", "Boxing", "Archery"],
+    "answer": "Boxing",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q28",
+    "question": "Who is known as the 'Father of the Indian Nuclear Program'?",
+    "options": ["C. V. Raman", "A. P. J. Abdul Kalam", "Homi J. Bhabha", "Vikram Sarabhai"],
+    "answer": "Homi J. Bhabha",
+    "category": "science",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q29",
+    "question": "Who was the lead actor in the movie 'Lagaan'?",
+    "options": ["Shah Rukh Khan", "Aamir Khan", "Salman Khan", "Akshay Kumar"],
+    "answer": "Aamir Khan",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q30",
+    "question": "Which company created the iPhone?",
+    "options": ["Samsung", "Google", "Apple", "Microsoft"],
+    "answer": "Apple",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q31",
+    "question": "The character 'Sherlock Holmes' was created by which author?",
+    "options": ["Agatha Christie", "Arthur Conan Doyle", "Charles Dickens", "J.K. Rowling"],
+    "answer": "Arthur Conan Doyle",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q32",
+    "question": "The Dronacharya Award in India is given to...",
+    "options": ["Outstanding Athletes", "Sports Coaches", "Umpires/Referees", "Sports Journalists"],
+    "answer": "Sports Coaches",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q33",
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Nucleus", "Ribosome", "Mitochondrion", "Cell Membrane"],
+    "answer": "Mitochondrion",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q34",
+    "question": "In which city is the 'Satyajit Ray Film and Television Institute' located?",
+    "options": ["Mumbai", "Pune", "Chennai", "Kolkata"],
+    "answer": "Kolkata",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q35",
+    "question": "What technology is used to make contactless payments with a credit card?",
+    "options": ["Bluetooth", "NFC", "Infrared", "QR Code"],
+    "answer": "NFC",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q36",
+    "question": "Which of the following is a classical dance form from Kerala?",
+    "options": ["Bharatanatyam", "Kuchipudi", "Kathakali", "Odissi"],
+    "answer": "Kathakali",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q37",
+    "question": "Who is the all-time leading run-scorer in Test cricket?",
+    "options": ["Ricky Ponting", "Sachin Tendulkar", "Jacques Kallis", "Rahul Dravid"],
+    "answer": "Sachin Tendulkar",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q38",
+    "question": "What does DNA stand for?",
+    "options": ["Deoxyribonucleic Acid", "Dinitroribofluoric Acid", "Denitrogenated Acid", "Dextrorotary Nucleic Acid"],
+    "answer": "Deoxyribonucleic Acid",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q39",
+    "question": "Which actress won the National Film Award for Best Actress for the movie 'Queen'?",
+    "options": ["Deepika Padukone", "Priyanka Chopra", "Kangana Ranaut", "Vidya Balan"],
+    "answer": "Kangana Ranaut",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q40",
+    "question": "Infosys, a major Indian IT company, was founded by N. R. Narayana Murthy and six others in which city?",
+    "options": ["Bengaluru", "Mumbai", "Pune", "Chennai"],
+    "answer": "Pune",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q41",
+    "question": "Who wrote the epic 'Ramayana'?",
+    "options": ["Ved Vyasa", "Valmiki", "Tulsidas", "Kalidasa"],
+    "answer": "Valmiki",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q42",
+    "question": "Neeraj Chopra is associated with which sport?",
+    "options": ["Wrestling", "Javelin Throw", "Shooting", "Boxing"],
+    "answer": "Javelin Throw",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q43",
+    "question": "The theory of relativity was proposed by which scientist?",
+    "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Stephen Hawking"],
+    "answer": "Albert Einstein",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q44",
+    "question": "Which was India's first full-length feature film?",
+    "options": ["Alam Ara", "Raja Harishchandra", "Kisan Kanya", "Mother India"],
+    "answer": "Raja Harishchandra",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q45",
+    "question": "What is the name of the mascot for the Linux operating system?",
+    "options": ["Larry the Bird", "Tux the Penguin", "Clippy", "Duke"],
+    "answer": "Tux the Penguin",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q46",
+    "question": "'War and Peace' is a novel by which Russian author?",
+    "options": ["Fyodor Dostoevsky", "Anton Chekhov", "Leo Tolstoy", "Alexander Pushkin"],
+    "answer": "Leo Tolstoy",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q47",
+    "question": "In cricket, what does LBW stand for?",
+    "options": ["Leg Before Wicket", "Long Ball Wide", "Leg Behind Wicket", "Let Ball Go"],
+    "answer": "Leg Before Wicket",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q48",
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"],
+    "answer": "Nitrogen",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q49",
+    "question": "Who is known as the 'Nightingale of India'?",
+    "options": ["Asha Bhosle", "Lata Mangeshkar", "Sarojini Naidu", "M. S. Subbulakshmi"],
+    "answer": "Lata Mangeshkar",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q50",
+    "question": "What does AI stand for?",
+    "options": ["Automated Intelligence", "Artificial Intelligence", "Algorithmic Interface", "Advanced Internet"],
+    "answer": "Artificial Intelligence",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q51",
+    "question": "In the Mahabharata, who was the mother of Karna?",
+    "options": ["Gandhari", "Kunti", "Draupadi", "Madri"],
+    "answer": "Kunti",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q52",
+    "question": "P.V. Sindhu is a prominent Indian player in which sport?",
+    "options": ["Tennis", "Badminton", "Table Tennis", "Squash"],
+    "answer": "Badminton",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q53",
+    "question": "What is the study of earthquakes called?",
+    "options": ["Geology", "Seismology", "Volcanology", "Meteorology"],
+    "answer": "Seismology",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q54",
+    "question": "The popular TV series 'Malgudi Days' is based on the works of which Indian author?",
+    "options": ["R. K. Narayan", "Mulk Raj Anand", "Khushwant Singh", "Ruskin Bond"],
+    "answer": "R. K. Narayan",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q55",
+    "question": "Which company developed the Android operating system?",
+    "options": ["Apple", "Microsoft", "Samsung", "Google"],
+    "answer": "Google",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q56",
+    "question": "The 'Ajanta and Ellora' caves are located in which Indian state?",
+    "options": ["Madhya Pradesh", "Karnataka", "Maharashtra", "Gujarat"],
+    "answer": "Maharashtra",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q57",
+    "question": "The term 'hat-trick' is used in which of these sports?",
+    "options": ["Kabaddi", "Basketball", "Cricket", "Tennis"],
+    "answer": "Cricket",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q58",
+    "question": "Who is credited with the discovery of penicillin?",
+    "options": ["Marie Curie", "Louis Pasteur", "Alexander Fleming", "Robert Koch"],
+    "answer": "Alexander Fleming",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q59",
+    "question": "Who composed the iconic song 'Jai Ho'?",
+    "options": ["Anu Malik", "A. R. Rahman", "Pritam", "Shankar-Ehsaan-Loy"],
+    "answer": "A. R. Rahman",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q60",
+    "question": "What does '5G' refer to in mobile telecommunications?",
+    "options": ["5 Gigabytes", "5th Generation", "5th Gear", "5 Gigahertz"],
+    "answer": "5th Generation",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q61",
+    "question": "Who is the author of the Harry Potter series?",
+    "options": ["J. R. R. Tolkien", "George R. R. Martin", "J. K. Rowling", "C. S. Lewis"],
+    "answer": "J. K. Rowling",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q62",
+    "question": "The first modern Olympic Games were held in which city?",
+    "options": ["Paris", "London", "Athens", "Rome"],
+    "answer": "Athens",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q63",
+    "question": "Chandrayaan-1, India's first lunar probe, was launched in which year?",
+    "options": ["2005", "2008", "2011", "2013"],
+    "answer": "2008",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q64",
+    "question": "Which of these is a famous TV show created by the makers of 'Panchayat'?",
+    "options": ["Scam 1992", "Mirzapur", "Kota Factory", "Sacred Games"],
+    "answer": "Kota Factory",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q65",
+    "question": "What is the full form of PDF?",
+    "options": ["Portable Document Format", "Printable Document File", "Personal Data File", "Portable Data Format"],
+    "answer": "Portable Document Format",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q66",
+    "question": "The art of 'Origami' originated in which country?",
+    "options": ["China", "Japan", "South Korea", "Thailand"],
+    "answer": "Japan",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q67",
+    "question": "Who holds the record for the fastest 100m sprint?",
+    "options": ["Carl Lewis", "Tyson Gay", "Yohan Blake", "Usain Bolt"],
+    "answer": "Usain Bolt",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q68",
+    "question": "A light-year is a unit of...?",
+    "options": ["Time", "Distance", "Speed", "Luminosity"],
+    "answer": "Distance",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q69",
+    "question": "The TV show 'Tarak Mehta Ka Ooltah Chashmah' is set in which fictional housing society?",
+    "options": ["Sunrise Apartments", "Gokuldham Society", "Paradise Heights", "Happy Homes Society"],
+    "answer": "Gokuldham Society",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q70",
+    "question": "Who is known as the 'father of the Indian IT industry'?",
+    "options": ["Azim Premji", "N. R. Narayana Murthy", "F. C. Kohli", "Shiv Nadar"],
+    "answer": "F. C. Kohli",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q71",
+    "question": "Satyajit Ray's 'Pather Panchali' is part of which famous film trilogy?",
+    "options": ["The Calcutta Trilogy", "The Apu Trilogy", "The Bengal Trilogy", "The Ray Trilogy"],
+    "answer": "The Apu Trilogy",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q72",
+    "question": "In which sport is the term 'Bulls-eye' used?",
+    "options": ["Shooting", "Archery", "Darts", "All of the above"],
+    "answer": "All of the above",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q73",
+    "question": "What is the pH value of pure water?",
+    "options": ["6", "7", "8", "0"],
+    "answer": "7",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q74",
+    "question": "The Dadasaheb Phalke Award is India's highest honour in which field?",
+    "options": ["Literature", "Music", "Cinema", "Theatre"],
+    "answer": "Cinema",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q75",
+    "question": "A 'bug' in a computer program is a common term for what?",
+    "options": ["A feature", "An error or flaw", "A security measure", "A user"],
+    "answer": "An error or flaw",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q76",
+    "question": "'The Diary of a Young Girl' is the writing of which historical figure?",
+    "options": ["Joan of Arc", "Marie Curie", "Helen Keller", "Anne Frank"],
+    "answer": "Anne Frank",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q77",
+    "question": "How many squares are there on a standard chessboard?",
+    "options": ["32", "64", "72", "81"],
+    "answer": "64",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q78",
+    "question": "Which of these is NOT a noble gas?",
+    "options": ["Helium", "Neon", "Argon", "Nitrogen"],
+    "answer": "Nitrogen",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q79",
+    "question": "The song 'Chaiyya Chaiyya' was filmed on top of a moving train for which movie?",
+    "options": ["Dil Se..", "Swades", "Devdas", "Kabhi Khushi Kabhie Gham..."],
+    "answer": "Dil Se..",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q80",
+    "question": "What does a CPU in a computer stand for?",
+    "options": ["Central Processing Unit", "Computer Personal Unit", "Central Power Unit", "Computer Processing Unit"],
+    "answer": "Central Processing Unit",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q81",
+    "question": "The famous artist M. F. Husain was primarily known for which art form?",
+    "options": ["Sculpture", "Photography", "Painting", "Calligraphy"],
+    "answer": "Painting",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q82",
+    "question": "What is the national sport of India?",
+    "options": ["Cricket", "Kabaddi", "Hockey", "None of the above"],
+    "answer": "None of the above",
+    "category": "sports",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q83",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": ["Gold", "Iron", "Diamond", "Quartz"],
+    "answer": "Diamond",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q84",
+    "question": "Which streaming service produced the hit Indian series 'Sacred Games'?",
+    "options": ["Amazon Prime Video", "Netflix", "Disney+ Hotstar", "SonyLIV"],
+    "answer": "Netflix",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q85",
+    "question": "Who is credited with inventing the World Wide Web?",
+    "options": ["Bill Gates", "Steve Jobs", "Tim Berners-Lee", "Vint Cerf"],
+    "answer": "Tim Berners-Lee",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q86",
+    "question": "Who is considered the 'father of the modern Hindi novel'?",
+    "options": ["Jaishankar Prasad", "Munshi Premchand", "Harivansh Rai Bachchan", "Sumitranandan Pant"],
+    "answer": "Munshi Premchand",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q87",
+    "question": "The Eden Gardens cricket ground is located in which city?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Kolkata",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q88",
+    "question": "What force keeps the planets in orbit around the sun?",
+    "options": ["Magnetic Force", "Frictional Force", "Gravitational Force", "Nuclear Force"],
+    "answer": "Gravitational Force",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q89",
+    "question": "The character of 'Gabbar Singh' is from which iconic Bollywood film?",
+    "options": ["Deewaar", "Sholay", "Don", "Zanjeer"],
+    "answer": "Sholay",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q90",
+    "question": "What does 'URL' stand for?",
+    "options": ["Universal Resource Locator", "Uniform Resource Locator", "Universal Record Link", "Uniform Record Link"],
+    "answer": "Uniform Resource Locator",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q91",
+    "question": "Which Indian poet is also known as 'Gurudev'?",
+    "options": ["Rabindranath Tagore", "Subramania Bharati", "Sarojini Naidu", "Kazi Nazrul Islam"],
+    "answer": "Rabindranath Tagore",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q92",
+    "question": "Which Indian Premier League (IPL) team has won the most titles?",
+    "options": ["Kolkata Knight Riders", "Mumbai Indians", "Chennai Super Kings", "Both Mumbai Indians and Chennai Super Kings"],
+    "answer": "Both Mumbai Indians and Chennai Super Kings",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q93",
+    "question": "Which vitamin is also known as ascorbic acid?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin C",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q94",
+    "question": "Which South Korean film won the Academy Award for Best Picture in 2020?",
+    "options": ["The Host", "Train to Busan", "Parasite", "Minari"],
+    "answer": "Parasite",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q95",
+    "question": "What is 'Blockchain' most famously associated with?",
+    "options": ["Social Media", "Cryptocurrency", "Cloud Storage", "GPS Navigation"],
+    "answer": "Cryptocurrency",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q96",
+    "question": "The book 'Train to Pakistan' which recounts the partition of India was written by?",
+    "options": ["Salman Rushdie", "Khushwant Singh", "Vikram Seth", "Amitav Ghosh"],
+    "answer": "Khushwant Singh",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q97",
+    "question": "Major Dhyan Chand was a legendary figure in which sport?",
+    "options": ["Cricket", "Football", "Hockey", "Wrestling"],
+    "answer": "Hockey",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q98",
+    "question": "The first man-made object to be sent into space was?",
+    "options": ["Apollo 11", "Vostok 1", "Sputnik 1", "Explorer 1"],
+    "answer": "Sputnik 1",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q99",
+    "question": "Pandit Ravi Shankar was an internationally acclaimed maestro of which musical instrument?",
+    "options": ["Tabla", "Sarod", "Sitar", "Flute"],
+    "answer": "Sitar",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q100",
+    "question": "Which of these is a cloud computing platform by Amazon?",
+    "options": ["Azure", "Google Cloud", "AWS", "iCloud"],
+    "answer": "AWS",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q101",
+    "question": "The historic 'Grand Trunk Road' was built by which ruler?",
+    "options": [
+      "Akbar",
+      "Sher Shah Suri",
+      "Ashoka",
+      "Shah Jahan"
+    ],
+    "answer": "Sher Shah Suri",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q102",
+    "question": "Which Indian city is famous for its 'Chikankari' embroidery?",
+    "options": [
+      "Jaipur",
+      "Varanasi",
+      "Lucknow",
+      "Hyderabad"
+    ],
+    "answer": "Lucknow",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q103",
+    "question": "Viswanathan Anand is a world-renowned player of which sport?",
+    "options": [
+      "Snooker",
+      "Table Tennis",
+      "Badminton",
+      "Chess"
+    ],
+    "answer": "Chess",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q104",
+    "question": "Who is known as the 'Missile Man of India'?",
+    "options": [
+      "Homi J. Bhabha",
+      "C. V. Raman",
+      "A. P. J. Abdul Kalam",
+      "Vikram Sarabhai"
+    ],
+    "answer": "A. P. J. Abdul Kalam",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q105",
+    "question": "The iconic dialogue 'Kitne aadmi the?' is from which Bollywood movie?",
+    "options": [
+      "Deewaar",
+      "Zanjeer",
+      "Don",
+      "Sholay"
+    ],
+    "answer": "Sholay",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q106",
+    "question": "Flipkart, an Indian e-commerce giant, was founded by Sachin Bansal and Binny Bansal in which city?",
+    "options": [
+      "Mumbai",
+      "Bengaluru",
+      "Delhi",
+      "Hyderabad"
+    ],
+    "answer": "Bengaluru",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q107",
+    "question": "Who wrote the famous novel 'The Guide'?",
+    "options": [
+      "Mulk Raj Anand",
+      "Khushwant Singh",
+      "R. K. Narayan",
+      "Vikram Seth"
+    ],
+    "answer": "R. K. Narayan",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q108",
+    "question": "Which country hosted the 2010 Commonwealth Games?",
+    "options": [
+      "Australia",
+      "England",
+      "Canada",
+      "India"
+    ],
+    "answer": "India",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q109",
+    "question": "India's first satellite, Aryabhata, was launched with the help of which country?",
+    "options": [
+      "USA",
+      "France",
+      "Soviet Union",
+      "Germany"
+    ],
+    "answer": "Soviet Union",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q110",
+    "question": "Who played the role of 'Bhuvan' in the Oscar-nominated film Lagaan?",
+    "options": [
+      "Shah Rukh Khan",
+      "Aamir Khan",
+      "Salman Khan",
+      "Akshay Kumar"
+    ],
+    "answer": "Aamir Khan",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q111",
+    "question": "What does SIM stand for in a mobile phone?",
+    "options": [
+      "Subscriber Identity Module",
+      "System Information Memory",
+      "Single Integrated Microchip",
+      "Subscriber Internet Model"
+    ],
+    "answer": "Subscriber Identity Module",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q112",
+    "question": "The Sun Temple at Konark is located in which Indian state?",
+    "options": [
+      "Andhra Pradesh",
+      "Odisha",
+      "West Bengal",
+      "Tamil Nadu"
+    ],
+    "answer": "Odisha",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q113",
+    "question": "Who was the first Indian woman to win a medal at the Olympics?",
+    "options": [
+      "P. T. Usha",
+      "Karnam Malleswari",
+      "Saina Nehwal",
+      "Mary Kom"
+    ],
+    "answer": "Karnam Malleswari",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q114",
+    "question": "What is the common name for Sodium Bicarbonate?",
+    "options": [
+      "Vinegar",
+      "Baking Soda",
+      "Washing Soda",
+      "Bleach"
+    ],
+    "answer": "Baking Soda",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q115",
+    "question": "Which Indian lyricist holds the record for writing the most number of songs?",
+    "options": [
+      "Gulzar",
+      "Javed Akhtar",
+      "Prasoon Joshi",
+      "Sameer Anjaan"
+    ],
+    "answer": "Sameer Anjaan",
+    "category": "entertainment",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q116",
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HyperText Transmission Protocol",
+      "High Tier Transfer Process",
+      "HyperText Technology Platform"
+    ],
+    "answer": "HyperText Transfer Protocol",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q117",
+    "question": "In which state would you find the 'Valley of Flowers' National Park?",
+    "options": [
+      "Himachal Pradesh",
+      "Sikkim",
+      "Uttarakhand",
+      "Jammu & Kashmir"
+    ],
+    "answer": "Uttarakhand",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q118",
+    "question": "The famous phrase 'Googly' is associated with which sport?",
+    "options": [
+      "Tennis",
+      "Badminton",
+      "Cricket",
+      "Hockey"
+    ],
+    "answer": "Cricket",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q119",
+    "question": "Who is known as the 'Father of the Green Revolution' in India?",
+    "options": [
+      "Verghese Kurien",
+      "M. S. Swaminathan",
+      "Norman Borlaug",
+      "C. Subramaniam"
+    ],
+    "answer": "M. S. Swaminathan",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q120",
+    "question": "Which was the first Indian movie to be nominated for an Academy Award in the Best Foreign Language Film category?",
+    "options": [
+      "Lagaan",
+      "Salaam Bombay!",
+      "Mother India",
+      "Guide"
+    ],
+    "answer": "Mother India",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q121",
+    "question": "Who founded the Indian food delivery company Zomato?",
+    "options": [
+      "Deepinder Goyal & Pankaj Chaddah",
+      "Bhavish Aggarwal & Ankit Bhati",
+      "Sachin Bansal & Binny Bansal",
+      "Kunal Shah"
+    ],
+    "answer": "Deepinder Goyal & Pankaj Chaddah",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q122",
+    "question": "Who is the author of 'Midnight's Children', a book that won the Booker Prize?",
+    "options": [
+      "Vikram Seth",
+      "Arundhati Roy",
+      "Amitav Ghosh",
+      "Salman Rushdie"
+    ],
+    "answer": "Salman Rushdie",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q123",
+    "question": "The term 'Duck' is used in which sport to denote a score of zero?",
+    "options": [
+      "Football",
+      "Baseball",
+      "Cricket",
+      "Basketball"
+    ],
+    "answer": "Cricket",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q124",
+    "question": "What is the full form of DRDO?",
+    "options": [
+      "Defence Research and Development Organisation",
+      "Department of Rocket Development and Organisation",
+      "Defence Radar Development Organisation",
+      "Dynamic Research and Development Operation"
+    ],
+    "answer": "Defence Research and Development Organisation",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q125",
+    "question": "Who directed the critically acclaimed film 'Gangs of Wasseypur'?",
+    "options": [
+      "Vishal Bhardwaj",
+      "Anurag Kashyap",
+      "Dibakar Banerjee",
+      "Zoya Akhtar"
+    ],
+    "answer": "Anurag Kashyap",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q126",
+    "question": "What does 'jpeg' or 'jpg' stand for?",
+    "options": [
+      "Joint Photographic Experts Group",
+      "Java Programming Expert Graphics",
+      "Joint Pixel Enhanced Graphics",
+      "Justified Photographic Engineering Group"
+    ],
+    "answer": "Joint Photographic Experts Group",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q127",
+    "question": "The 'Khajuraho Group of Monuments' are located in which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "answer": "Madhya Pradesh",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q128",
+    "question": "Leander Paes won an Olympic bronze medal in which sport?",
+    "options": [
+      "Badminton",
+      "Shooting",
+      "Tennis",
+      "Wrestling"
+    ],
+    "answer": "Tennis",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q129",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Thermometer",
+      "Barometer",
+      "Hygrometer",
+      "Anemometer"
+    ],
+    "answer": "Barometer",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q130",
+    "question": "Who is the only actor to have won the Filmfare Award for Best Actor 8 times?",
+    "options": [
+      "Amitabh Bachchan & Shah Rukh Khan",
+      "Dilip Kumar & Shah Rukh Khan",
+      "Amitabh Bachchan & Dilip Kumar",
+      "Only Shah Rukh Khan"
+    ],
+    "answer": "Dilip Kumar & Shah Rukh Khan",
+    "category": "entertainment",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q131",
+    "question": "Which of these is NOT a web browser?",
+    "options": [
+      "Chrome",
+      "Firefox",
+      "Safari",
+      "Android"
+    ],
+    "answer": "Android",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q132",
+    "question": "Who wrote the play 'Abhijnanasakuntalam'?",
+    "options": [
+      "Valmiki",
+      "Kalidasa",
+      "Bhavabhuti",
+      "Tulsidas"
+    ],
+    "answer": "Kalidasa",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q133",
+    "question": "The first edition of the Indian Premier League (IPL) was played in which year?",
+    "options": [
+      "2007",
+      "2008",
+      "2009",
+      "2010"
+    ],
+    "answer": "2008",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q134",
+    "question": "Who is known as the 'Father of Taxonomy'?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Carl Linnaeus",
+      "Aristotle"
+    ],
+    "answer": "Carl Linnaeus",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q135",
+    "question": "In the TV series 'Panchayat', what is the name of the village the protagonist is posted in?",
+    "options": [
+      "Rampura",
+      "Phulera",
+      "Sitapur",
+      "Devgarh"
+    ],
+    "answer": "Phulera",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q136",
+    "question": "What is the name of the Indian payment gateway company acquired by PayU in 2016?",
+    "options": [
+      "CCAvenue",
+      "BillDesk",
+      "Citrus Pay",
+      "Razorpay"
+    ],
+    "answer": "Citrus Pay",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q137",
+    "question": "Which art form from Andhra Pradesh involves storytelling through a group performance?",
+    "options": [
+      "Kuchipudi",
+      "Kalamkari",
+      "Burrakatha",
+      "Veedhi Natakam"
+    ],
+    "answer": "Burrakatha",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q138",
+    "question": "The Feroz Shah Kotla Ground in Delhi was renamed after which Indian politician?",
+    "options": [
+      "Atal Bihari Vajpayee",
+      "Sushma Swaraj",
+      "Arun Jaitley",
+      "Indira Gandhi"
+    ],
+    "answer": "Arun Jaitley",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q139",
+    "question": "The 'White Revolution' in India is associated with an increase in the production of?",
+    "options": [
+      "Cotton",
+      "Rice",
+      "Eggs",
+      "Milk"
+    ],
+    "answer": "Milk",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q140",
+    "question": "The classic Doordarshan show 'Buniyaad' was written by?",
+    "options": [
+      "Manohar Shyam Joshi",
+      "Rahi Masoom Raza",
+      "Kamleshwar",
+      "Sagar Sarhadi"
+    ],
+    "answer": "Manohar Shyam Joshi",
+    "category": "entertainment",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q141",
+    "question": "Which of these is an Indian-developed alternative to Twitter?",
+    "options": [
+      "Chingari",
+      "Koo",
+      "Josh",
+      "Roposo"
+    ],
+    "answer": "Koo",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q142",
+    "question": "The rock shelters of Bhimbetka, a UNESCO World Heritage Site, are located in which state?",
+    "options": [
+      "Maharashtra",
+      "Odisha",
+      "Madhya Pradesh",
+      "Chhattisgarh"
+    ],
+    "answer": "Madhya Pradesh",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q143",
+    "question": "The Pro Kabaddi League (PKL) team 'Patna Pirates' has won the title how many times consecutively?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "answer": "3",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q144",
+    "question": "India's first nuclear test in 1974 was codenamed?",
+    "options": [
+      "Operation Shakti",
+      "Smiling Buddha",
+      "Project 596",
+      "Trinity"
+    ],
+    "answer": "Smiling Buddha",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q145",
+    "question": "In the film '3 Idiots', what is the real name of the character 'Rancho'?",
+    "options": [
+      "Ranchhoddas Chanchad",
+      "Phunsukh Wangdu",
+      "Chatur Ramalingam",
+      "Viru Sahastrabuddhe"
+    ],
+    "answer": "Phunsukh Wangdu",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q146",
+    "question": "What does RAM stand for in computing?",
+    "options": [
+      "Readily Available Memory",
+      "Random Access Memory",
+      "Real-time Application Module",
+      "Remote Access Machine"
+    ],
+    "answer": "Random Access Memory",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q147",
+    "question": "Who wrote 'Gitanjali', a collection of poems for which he won the Nobel Prize in Literature?",
+    "options": [
+      "Sarojini Naidu",
+      "Bankim Chandra Chatterjee",
+      "Rabindranath Tagore",
+      "Sri Aurobindo"
+    ],
+    "answer": "Rabindranath Tagore",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q148",
+    "question": "The Phogat sisters (Geeta and Babita) are famous for their achievements in which sport?",
+    "options": [
+      "Boxing",
+      "Archery",
+      "Shooting",
+      "Wrestling"
+    ],
+    "answer": "Wrestling",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q149",
+    "question": "Which of these is responsible for blood clotting?",
+    "options": [
+      "Red Blood Cells",
+      "White Blood Cells",
+      "Platelets",
+      "Plasma"
+    ],
+    "answer": "Platelets",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q150",
+    "question": "Who is the music composer duo behind hit albums like 'Dilwale Dulhania Le Jayenge' and 'Kuch Kuch Hota Hai'?",
+    "options": [
+      "Shankar-Ehsaan-Loy",
+      "Nadeem-Shravan",
+      "Jatin-Lalit",
+      "Anand-Milind"
+    ],
+    "answer": "Jatin-Lalit",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q151",
+    "question": "Which Indian company launched the 'Jio' telecom network?",
+    "options": [
+      "Tata Group",
+      "Bharti Airtel",
+      "Reliance Industries",
+      "Aditya Birla Group"
+    ],
+    "answer": "Reliance Industries",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q152",
+    "question": "In which city is the famous 'Hawa Mahal' located?",
+    "options": [
+      "Udaipur",
+      "Jodhpur",
+      "Jaipur",
+      "Agra"
+    ],
+    "answer": "Jaipur",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q153",
+    "question": "Anil Kumble, a former Indian cricket captain, is famous for taking all 10 wickets in a single Test innings against which country?",
+    "options": [
+      "Australia",
+      "Pakistan",
+      "Sri Lanka",
+      "England"
+    ],
+    "answer": "Pakistan",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q154",
+    "question": "The Chandrayaan-2 mission's lander was named what?",
+    "options": [
+      "Pragyan",
+      "Vikram",
+      "Dhruv",
+      "Aditya"
+    ],
+    "answer": "Vikram",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q155",
+    "question": "The popular web series 'Mirzapur' is primarily set in which Indian state?",
+    "options": [
+      "Bihar",
+      "Jharkhand",
+      "Madhya Pradesh",
+      "Uttar Pradesh"
+    ],
+    "answer": "Uttar Pradesh",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q156",
+    "question": "What does VPN stand for?",
+    "options": [
+      "Virtual Private Network",
+      "Verified Public Network",
+      "Virtual Protected Node",
+      "Verified Private Number"
+    ],
+    "answer": "Virtual Private Network",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q157",
+    "question": "In the Ramayana, which demon took the form of a golden deer to lure Sita?",
+    "options": [
+      "Surpanakha",
+      "Khara",
+      "Maricha",
+      "Dushana"
+    ],
+    "answer": "Maricha",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q158",
+    "question": "The 'Ashes' is a famous Test cricket series played between which two countries?",
+    "options": [
+      "India and Pakistan",
+      "Australia and England",
+      "South Africa and New Zealand",
+      "India and Australia"
+    ],
+    "answer": "Australia and England",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q159",
+    "question": "Which gas do plants absorb from the atmosphere during photosynthesis?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Carbon Dioxide",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q160",
+    "question": "Who directed the path-breaking Hindi film 'Pyaasa' (1957)?",
+    "options": [
+      "Raj Kapoor",
+      "Bimal Roy",
+      "Guru Dutt",
+      "Mehboob Khan"
+    ],
+    "answer": "Guru Dutt",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q161",
+    "question": "The '.com' in a domain name typically refers to what?",
+    "options": [
+      "Community",
+      "Company",
+      "Commercial",
+      "Computer"
+    ],
+    "answer": "Commercial",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q162",
+    "question": "Who is the author of the controversial book 'The Satanic Verses'?",
+    "options": [
+      "V. S. Naipaul",
+      "Salman Rushdie",
+      "Aravind Adiga",
+      "Shashi Tharoor"
+    ],
+    "answer": "Salman Rushdie",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q163",
+    "question": "The Rajiv Gandhi Khel Ratna Award, India's highest sporting honour, was renamed after which sports personality?",
+    "options": [
+      "Milkha Singh",
+      "Sachin Tendulkar",
+      "Major Dhyan Chand",
+      "Kapil Dev"
+    ],
+    "answer": "Major Dhyan Chand",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q164",
+    "question": "What is the study of fungi called?",
+    "options": [
+      "Botany",
+      "Zoology",
+      "Mycology",
+      "Phycology"
+    ],
+    "answer": "Mycology",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q165",
+    "question": "In the TV show 'Scam 1992', who played the lead role of Harshad Mehta?",
+    "options": [
+      "Jaideep Ahlawat",
+      "Pratik Gandhi",
+      "Pankaj Tripathi",
+      "Kay Kay Menon"
+    ],
+    "answer": "Pratik Gandhi",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q166",
+    "question": "Which company developed the popular video conferencing software Zoom?",
+    "options": [
+      "Microsoft",
+      "Google",
+      "Zoom Video Communications, Inc.",
+      "Cisco"
+    ],
+    "answer": "Zoom Video Communications, Inc.",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q167",
+    "question": "Warli painting is a traditional art form from which Indian state?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Maharashtra",
+      "Madhya Pradesh"
+    ],
+    "answer": "Maharashtra",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q168",
+    "question": "How many times has India hosted the Men's FIH Hockey World Cup?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "category": "sports",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q169",
+    "question": "Who discovered the vaccine for smallpox?",
+    "options": [
+      "Louis Pasteur",
+      "Robert Koch",
+      "Edward Jenner",
+      "Alexander Fleming"
+    ],
+    "answer": "Edward Jenner",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q170",
+    "question": "The character 'Mogambo' who famously said 'Mogambo khush hua' is from which film?",
+    "options": [
+      "Mr. India",
+      "Shaan",
+      "Tridev",
+      "Ghayal"
+    ],
+    "answer": "Mr. India",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q171",
+    "question": "What is the main function of a firewall in computer networks?",
+    "options": [
+      "To speed up the internet",
+      "To prevent unauthorized access",
+      "To store data in the cloud",
+      "To clean viruses"
+    ],
+    "answer": "To prevent unauthorized access",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q172",
+    "question": "Who wrote the novel 'The White Tiger', which won the 2008 Man Booker Prize?",
+    "options": [
+      "Kiran Desai",
+      "Amitav Ghosh",
+      "Aravind Adiga",
+      "Jhumpa Lahiri"
+    ],
+    "answer": "Aravind Adiga",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q173",
+    "question": "At which of the following stadiums did Sachin Tendulkar score his 100th international century?",
+    "options": [
+      "Wankhede Stadium, Mumbai",
+      "Eden Gardens, Kolkata",
+      "Lord's, London",
+      "Sher-e-Bangla National Stadium, Dhaka"
+    ],
+    "answer": "Sher-e-Bangla National Stadium, Dhaka",
+    "category": "sports",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q174",
+    "question": "What is the 'escape velocity' of Earth?",
+    "options": [
+      "9.8 km/s",
+      "11.2 km/s",
+      "15.5 km/s",
+      "8.7 km/s"
+    ],
+    "answer": "11.2 km/s",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q175",
+    "question": "Which of these film directors is known for creating the 'spy universe' with films like 'Pathaan' and 'War'?",
+    "options": [
+      "Rohit Shetty",
+      "Siddharth Anand",
+      "Ali Abbas Zafar",
+      "Kabir Khan"
+    ],
+    "answer": "Siddharth Anand",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q176",
+    "question": "What does IoT stand for?",
+    "options": [
+      "Internet of Things",
+      "Input on Technology",
+      "Internet of Technology",
+      "Internal on-chip Test"
+    ],
+    "answer": "Internet of Things",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q177",
+    "question": "The National School of Drama, a premier theatre training institute, is located in which city?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Pune"
+    ],
+    "answer": "New Delhi",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q178",
+    "question": "Who is the first Indian batsman to score a triple century in Test cricket?",
+    "options": [
+      "Sunil Gavaskar",
+      "Sachin Tendulkar",
+      "Virender Sehwag",
+      "Rahul Dravid"
+    ],
+    "answer": "Virender Sehwag",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q179",
+    "question": "Which element is found in all organic compounds?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon",
+      "Nitrogen"
+    ],
+    "answer": "Carbon",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q180",
+    "question": "Ustad Bismillah Khan was a maestro of which musical instrument?",
+    "options": [
+      "Sitar",
+      "Sarod",
+      "Shehnai",
+      "Tabla"
+    ],
+    "answer": "Shehnai",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q181",
+    "question": "What does 'SaaS' stand for in cloud computing?",
+    "options": [
+      "System as a Service",
+      "Software as a Service",
+      "Security as a Service",
+      "Storage as a Service"
+    ],
+    "answer": "Software as a Service",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q182",
+    "question": "The famous poem 'Madhushala' was written by which Hindi poet?",
+    "options": [
+      "Sumitranandan Pant",
+      "Suryakant Tripathi 'Nirala'",
+      "Jaishankar Prasad",
+      "Harivansh Rai Bachchan"
+    ],
+    "answer": "Harivansh Rai Bachchan",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q183",
+    "question": "In which Olympic games did the Indian men's hockey team last win a gold medal?",
+    "options": [
+      "1972 Munich",
+      "1980 Moscow",
+      "1964 Tokyo",
+      "1984 Los Angeles"
+    ],
+    "answer": "1980 Moscow",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q184",
+    "question": "Who is considered the 'Father of Indian Space Program'?",
+    "options": [
+      "Homi J. Bhabha",
+      "A. P. J. Abdul Kalam",
+      "C. V. Raman",
+      "Vikram Sarabhai"
+    ],
+    "answer": "Vikram Sarabhai",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q185",
+    "question": "Which of these is a famous song picturized on Raj Kapoor in the rain?",
+    "options": [
+      "Mera Joota Hai Japani",
+      "Awara Hoon",
+      "Pyar Hua Iqrar Hua",
+      "Ek Din Bik Jayega"
+    ],
+    "answer": "Pyar Hua Iqrar Hua",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q186",
+    "question": "Who is the founder of the mobile payments and e-commerce platform Paytm?",
+    "options": [
+      "Kunal Shah",
+      "Vijay Shekhar Sharma",
+      "Deepinder Goyal",
+      "Bhavish Aggarwal"
+    ],
+    "answer": "Vijay Shekhar Sharma",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q187",
+    "question": "The ruins of Hampi, a UNESCO World Heritage site, are located in which Indian state?",
+    "options": [
+      "Telangana",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "answer": "Karnataka",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q188",
+    "question": "Sania Mirza, a famous Indian tennis player, has won how many Grand Slam titles?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": "6",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q189",
+    "question": "The study of insects is known as:",
+    "options": [
+      "Ornithology",
+      "Entomology",
+      "Herpetology",
+      "Ichthyology"
+    ],
+    "answer": "Entomology",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q190",
+    "question": "The first talkie film in India, 'Alam Ara', was released in which year?",
+    "options": [
+      "1928",
+      "1931",
+      "1935",
+      "1940"
+    ],
+    "answer": "1931",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q191",
+    "question": "Which of these is a popular open-source operating system based on the Linux kernel?",
+    "options": [
+      "Windows",
+      "macOS",
+      "Ubuntu",
+      "iOS"
+    ],
+    "answer": "Ubuntu",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q192",
+    "question": "Who wrote the Indian national song 'Vande Mataram'?",
+    "options": [
+      "Rabindranath Tagore",
+      "Bankim Chandra Chatterjee",
+      "Sarojini Naidu",
+      "Muhammad Iqbal"
+    ],
+    "answer": "Bankim Chandra Chatterjee",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q193",
+    "question": "The 2023 ICC Cricket World Cup final was played in which Indian city?",
+    "options": [
+      "Mumbai",
+      "Kolkata",
+      "Delhi",
+      "Ahmedabad"
+    ],
+    "answer": "Ahmedabad",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q194",
+    "question": "What is the chemical formula for common salt?",
+    "options": [
+      "H2O",
+      "CO2",
+      "NaCl",
+      "HCl"
+    ],
+    "answer": "NaCl",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q195",
+    "question": "M. S. Subbulakshmi was a legendary vocalist of which form of Indian classical music?",
+    "options": [
+      "Hindustani",
+      "Carnatic",
+      "Dhrupad",
+      "Thumri"
+    ],
+    "answer": "Carnatic",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q196",
+    "question": "The 'PARAM' series of supercomputers were developed by which Indian organization?",
+    "options": [
+      "ISRO",
+      "DRDO",
+      "C-DAC",
+      "BARC"
+    ],
+    "answer": "C-DAC",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q197",
+    "question": "The epic 'Mahabharata' was written by which sage?",
+    "options": [
+      "Valmiki",
+      "Tulsidas",
+      "Ved Vyasa",
+      "Kalidasa"
+    ],
+    "answer": "Ved Vyasa",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q198",
+    "question": "Who is nicknamed the 'Haryana Hurricane'?",
+    "options": [
+      "Virender Sehwag",
+      "Yuvraj Singh",
+      "Kapil Dev",
+      "Harbhajan Singh"
+    ],
+    "answer": "Kapil Dev",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q199",
+    "question": "Which of the following is a vector quantity?",
+    "options": [
+      "Speed",
+      "Distance",
+      "Mass",
+      "Velocity"
+    ],
+    "answer": "Velocity",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q200",
+    "question": "Who founded the production house 'Yash Raj Films'?",
+    "options": [
+      "Aditya Chopra",
+      "B. R. Chopra",
+      "Yash Chopra",
+      "Uday Chopra"
+    ],
+    "answer": "Yash Chopra",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q201",
+    "question": "Who co-founded Microsoft with Bill Gates?",
+    "options": [
+      "Steve Jobs",
+      "Steve Wozniak",
+      "Paul Allen",
+      "Larry Ellison"
+    ],
+    "answer": "Paul Allen",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q202",
+    "question": "The 'Elephanta Caves', a UNESCO World Heritage Site, are located near which major Indian city?",
+    "options": [
+      "Chennai",
+      "Kolkata",
+      "Mumbai",
+      "Goa"
+    ],
+    "answer": "Mumbai",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q203",
+    "question": "Which Indian state has its own official team in the I-League, India's premier football league?",
+    "options": [
+      "Kerala",
+      "Goa",
+      "West Bengal",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q204",
+    "question": "The deficiency of which vitamin causes scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "answer": "Vitamin C",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q205",
+    "question": "Which Indian film won the 'Grand Prix' at the Cannes Film Festival in 1946?",
+    "options": [
+      "Pather Panchali",
+      "Neecha Nagar",
+      "Do Bigha Zamin",
+      "Mother India"
+    ],
+    "answer": "Neecha Nagar",
+    "category": "entertainment",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q206",
+    "question": "What does LAN stand for?",
+    "options": [
+      "Local Area Network",
+      "Large Area Network",
+      "Logical Access Node",
+      "Landline Access Number"
+    ],
+    "answer": "Local Area Network",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q207",
+    "question": "In which state did the dance form 'Bharatanatyam' originate?",
+    "options": [
+      "Kerala",
+      "Andhra Pradesh",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "answer": "Tamil Nadu",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q208",
+    "question": "What is the maximum number of overs a bowler can bowl in a T20 cricket match?",
+    "options": [
+      "10",
+      "4",
+      "5",
+      "No limit"
+    ],
+    "answer": "4",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q209",
+    "question": "What is the primary function of the ozone layer?",
+    "options": [
+      "To cause rain",
+      "To absorb ultraviolet radiation",
+      "To maintain the Earth's temperature",
+      "To produce oxygen"
+    ],
+    "answer": "To absorb ultraviolet radiation",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q210",
+    "question": "Who is credited with being the first female music composer in Hindi cinema?",
+    "options": [
+      "Saraswati Devi",
+      "Usha Khanna",
+      "Jaddanbai",
+      "Ila Arun"
+    ],
+    "answer": "Jaddanbai",
+    "category": "entertainment",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q211",
+    "question": "What does GUI stand for?",
+    "options": [
+      "Graphical User Interface",
+      "General User Input",
+      "Gaming Utility Interface",
+      "Global User Identity"
+    ],
+    "answer": "Graphical User Interface",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q212",
+    "question": "Ruskin Bond, a famous Indian author, is primarily known for writing for which audience?",
+    "options": [
+      "Adults",
+      "Children",
+      "Academics",
+      "Historians"
+    ],
+    "answer": "Children",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q213",
+    "question": "The D-Day in Test cricket refers to what?",
+    "options": [
+      "The first day of the match",
+      "The last day of the match",
+      "The day a player scores a century",
+      "The day a team declares its innings"
+    ],
+    "answer": "The last day of the match",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q214",
+    "question": "What does the 'Richter scale' measure?",
+    "options": [
+      "Wind speed",
+      "Temperature",
+      "Tidal wave height",
+      "Earthquake magnitude"
+    ],
+    "answer": "Earthquake magnitude",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q215",
+    "question": "The National Film Development Corporation of India (NFDC) is headquartered in which city?",
+    "options": [
+      "New Delhi",
+      "Pune",
+      "Kolkata",
+      "Mumbai"
+    ],
+    "answer": "Mumbai",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q216",
+    "question": "Who is the founder of Wipro Limited?",
+    "options": [
+      "N.R. Narayana Murthy",
+      "Azim Premji",
+      "M.H. Hasham Premji",
+      "Shiv Nadar"
+    ],
+    "answer": "M.H. Hasham Premji",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q217",
+    "question": "Pattachitra is a traditional cloth-based scroll painting style, native to which Indian state?",
+    "options": [
+      "West Bengal",
+      "Odisha",
+      "Bihar",
+      "Andhra Pradesh"
+    ],
+    "answer": "Odisha",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q218",
+    "question": "Pankaj Advani is a world champion in which sport?",
+    "options": [
+      "Chess",
+      "Billiards and Snooker",
+      "Table Tennis",
+      "Shooting"
+    ],
+    "answer": "Billiards and Snooker",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q219",
+    "question": "What is the process by which a solid changes directly into a gas called?",
+    "options": [
+      "Evaporation",
+      "Condensation",
+      "Melting",
+      "Sublimation"
+    ],
+    "answer": "Sublimation",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q220",
+    "question": "Which of these actors has NOT played the role of the villain 'Don'?",
+    "options": [
+      "Amitabh Bachchan",
+      "Shah Rukh Khan",
+      "Ranveer Singh",
+      "Akshay Kumar"
+    ],
+    "answer": "Akshay Kumar",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q221",
+    "question": "What does DNS stand for in the context of the internet?",
+    "options": [
+      "Data Network Service",
+      "Domain Name System",
+      "Digital Naming Service",
+      "Direct Network Stream"
+    ],
+    "answer": "Domain Name System",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q222",
+    "question": "Amrita Sher-Gil was a pioneer of modern Indian art, primarily known as a:",
+    "options": [
+      "Sculptor",
+      "Dancer",
+      "Painter",
+      "Photographer"
+    ],
+    "answer": "Painter",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q223",
+    "question": "The term 'caddie' is associated with which sport?",
+    "options": [
+      "Polo",
+      "Golf",
+      "Horse Racing",
+      "Archery"
+    ],
+    "answer": "Golf",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q224",
+    "question": "Which mission by ISRO aims to send Indian astronauts into space?",
+    "options": [
+      "Chandrayaan-3",
+      "Aditya-L1",
+      "Mangalyaan 2",
+      "Gaganyaan"
+    ],
+    "answer": "Gaganyaan",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q225",
+    "question": "The iconic dialogue 'Mere paas maa hai' is from which movie?",
+    "options": [
+      "Sholay",
+      "Deewaar",
+      "Trishul",
+      "Don"
+    ],
+    "answer": "Deewaar",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q226",
+    "question": "What is 'open source' software?",
+    "options": [
+      "Software that is free to use",
+      "Software with source code available to modify and share",
+      "Software that works on any operating system",
+      "Software that does not require an internet connection"
+    ],
+    "answer": "Software with source code available to modify and share",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q227",
+    "question": "The 'Thanjavur' or 'Tanjore' painting style originated in which South Indian state?",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "answer": "Tamil Nadu",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q228",
+    "question": "How long is a marathon race?",
+    "options": [
+      "26 miles 385 yards",
+      "25 miles",
+      "20 miles 500 yards",
+      "30 miles"
+    ],
+    "answer": "26 miles 385 yards",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q229",
+    "question": "Satyendra Nath Bose, an Indian physicist, is known for his work in which field?",
+    "options": [
+      "Quantum Mechanics",
+      "Astrophysics",
+      "Nuclear Physics",
+      "Optics"
+    ],
+    "answer": "Quantum Mechanics",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q230",
+    "question": "Who directed the 2023 blockbuster film 'Jawan'?",
+    "options": [
+      "S. S. Rajamouli",
+      "Prashanth Neel",
+      "Atlee",
+      "Lokesh Kanagaraj"
+    ],
+    "answer": "Atlee",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q231",
+    "question": "Which of these is a video sharing service owned by Google?",
+    "options": [
+      "Vimeo",
+      "Dailymotion",
+      "YouTube",
+      "TikTok"
+    ],
+    "answer": "YouTube",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q232",
+    "question": "In which city is the 'Salar Jung Museum' located?",
+    "options": [
+      "Lucknow",
+      "Hyderabad",
+      "Kolkata",
+      "Delhi"
+    ],
+    "answer": "Hyderabad",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q233",
+    "question": "The term 'checkmate' signifies the end of a game in which sport?",
+    "options": [
+      "Carrom",
+      "Ludo",
+      "Chess",
+      "Polo"
+    ],
+    "answer": "Chess",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q234",
+    "question": "What is the boiling point of water at sea level?",
+    "options": [
+      "90°C",
+      "100°C",
+      "110°C",
+      "100°F"
+    ],
+    "answer": "100°C",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q235",
+    "question": "What is the name of the antagonist in the film 'KGF: Chapter 1'?",
+    "options": [
+      "Adheera",
+      "Garuda",
+      "Singham",
+      "Bhallaladeva"
+    ],
+    "answer": "Garuda",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q236",
+    "question": "What is the name of the digital assistant developed by Apple?",
+    "options": [
+      "Alexa",
+      "Cortana",
+      "Siri",
+      "Google Assistant"
+    ],
+    "answer": "Siri",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q237",
+    "question": "'Ghumura' is a folk dance form from which Indian state?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Odisha",
+      "Assam"
+    ],
+    "answer": "Odisha",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q238",
+    "question": "Which of these cricketers is known as 'The Wall'?",
+    "options": [
+      "Sachin Tendulkar",
+      "VVS Laxman",
+      "Rahul Dravid",
+      "Sourav Ganguly"
+    ],
+    "answer": "Rahul Dravid",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q239",
+    "question": "Who formulated the Laws of Motion?",
+    "options": [
+      "Albert Einstein",
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Michael Faraday"
+    ],
+    "answer": "Isaac Newton",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q240",
+    "question": "The Film and Television Institute of India (FTII) is located in which city?",
+    "options": [
+      "Mumbai",
+      "Pune",
+      "New Delhi",
+      "Kolkata"
+    ],
+    "answer": "Pune",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q241",
+    "question": "What does a '404 error' on a website signify?",
+    "options": [
+      "Server is down",
+      "Payment required",
+      "Page not found",
+      "Access forbidden"
+    ],
+    "answer": "Page not found",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q242",
+    "question": "The book 'An Area of Darkness' is a travelogue written by which Nobel laureate?",
+    "options": [
+      "Rabindranath Tagore",
+      "Amartya Sen",
+      "V. S. Naipaul",
+      "Rudyard Kipling"
+    ],
+    "answer": "V. S. Naipaul",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q243",
+    "question": "Baichung Bhutia is a legendary Indian figure in which sport?",
+    "options": [
+      "Hockey",
+      "Cricket",
+      "Football",
+      "Boxing"
+    ],
+    "answer": "Football",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q244",
+    "question": "What is the scientific study of birds called?",
+    "options": [
+      "Herpetology",
+      "Entomology",
+      "Ornithology",
+      "Mammalogy"
+    ],
+    "answer": "Ornithology",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q245",
+    "question": "Which of these is the highest-grossing Indian film of all time (as of early 2024)?",
+    "options": [
+      "Baahubali 2: The Conclusion",
+      "Dangal",
+      "K.G.F: Chapter 2",
+      "Pathaan"
+    ],
+    "answer": "Dangal",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q246",
+    "question": "Which company owns the popular photo-sharing app Instagram?",
+    "options": [
+      "Google",
+      "Twitter (X)",
+      "Meta",
+      "Apple"
+    ],
+    "answer": "Meta",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q247",
+    "question": "Bihu is a major festival and a folk dance of which Indian state?",
+    "options": [
+      "West Bengal",
+      "Assam",
+      "Manipur",
+      "Tripura"
+    ],
+    "answer": "Assam",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q248",
+    "question": "Which Indian athlete is known as the 'Payyoli Express'?",
+    "options": [
+      "Hima Das",
+      "Anju Bobby George",
+      "P. T. Usha",
+      "Dutee Chand"
+    ],
+    "answer": "P. T. Usha",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q249",
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      "Venus",
+      "Mercury",
+      "Mars",
+      "Earth"
+    ],
+    "answer": "Mercury",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q250",
+    "question": "The famous comedy TV serial 'Sarabhai vs Sarabhai' featured which family?",
+    "options": [
+      "The Parekh Family",
+      "The Sarabhai Family",
+      "The Diwan Family",
+      "The Mathur Family"
+    ],
+    "answer": "The Sarabhai Family",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q251",
+    "question": "The first version of the C programming language was developed at which research center?",
+    "options": [
+      "IBM Research",
+      "Xerox PARC",
+      "Microsoft Research",
+      "Bell Labs"
+    ],
+    "answer": "Bell Labs",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q252",
+    "question": "In which city is the Victoria Memorial, a large marble building, located?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "answer": "Kolkata",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q253",
+    "question": "The term 'knockout' is associated with which sport?",
+    "options": [
+      "Tennis",
+      "Wrestling",
+      "Boxing",
+      "Fencing"
+    ],
+    "answer": "Boxing",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q254",
+    "question": "Which type of mirror is used as a rear-view mirror in vehicles?",
+    "options": [
+      "Concave mirror",
+      "Convex mirror",
+      "Plane mirror",
+      "Cylindrical mirror"
+    ],
+    "answer": "Convex mirror",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q255",
+    "question": "Who played the title role in the 1982 epic biographical film 'Gandhi'?",
+    "options": [
+      "Sean Connery",
+      "Ben Kingsley",
+      "Richard Attenborough",
+      "Anthony Hopkins"
+    ],
+    "answer": "Ben Kingsley",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q256",
+    "question": "What is the process of a computer starting up called?",
+    "options": [
+      "Downloading",
+      "Booting",
+      "Installing",
+      "Compiling"
+    ],
+    "answer": "Booting",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q257",
+    "question": "Kalamkari is a type of hand-painted or block-printed cotton textile, originating from which Indian state?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+    ],
+    "answer": "Andhra Pradesh",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q258",
+    "question": "The 1983 Cricket World Cup final was played at which famous ground?",
+    "options": [
+      "Eden Gardens",
+      "MCG",
+      "The Oval",
+      "Lord's"
+    ],
+    "answer": "Lord's",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q259",
+    "question": "What is the largest organ in the human body?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Heart",
+      "Skin"
+    ],
+    "answer": "Skin",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q260",
+    "question": "The 'Filmfare Awards' were first introduced in which year?",
+    "options": [
+      "1954",
+      "1960",
+      "1947",
+      "1971"
+    ],
+    "answer": "1954",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q261",
+    "question": "What does USB stand for?",
+    "options": [
+      "Universal Serial Bus",
+      "Unified Service Bus",
+      "Universal System Block",
+      "United Serial Bus"
+    ],
+    "answer": "Universal Serial Bus",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q262",
+    "question": "The city of Varanasi is famous for which type of traditional Indian sari?",
+    "options": [
+      "Kanjeevaram",
+      "Chanderi",
+      "Patola",
+      "Banarasi"
+    ],
+    "answer": "Banarasi",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q263",
+    "question": "How many players are there in a standard polo team?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "4",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q264",
+    "question": "Which of these is not a state of matter?",
+    "options": [
+      "Solid",
+      "Liquid",
+      "Gas",
+      "Energy"
+    ],
+    "answer": "Energy",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q265",
+    "question": "The song 'Tu Mile Dil Khile' from the movie 'Criminal' is famous for being a copy of which artist's song?",
+    "options": [
+      "Michael Jackson",
+      "Enigma",
+      "Vangelis",
+      "Enya"
+    ],
+    "answer": "Enigma",
+    "category": "entertainment",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q266",
+    "question": "Which Indian company is the parent company of the UK-based luxury car brand Jaguar Land Rover?",
+    "options": [
+      "Mahindra & Mahindra",
+      "Reliance Industries",
+      "Tata Motors",
+      "Maruti Suzuki"
+    ],
+    "answer": "Tata Motors",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q267",
+    "question": "Who is the author of the 'Panchatantra', a collection of ancient Indian fables?",
+    "options": [
+      "Kalidasa",
+      "Vishnu Sharma",
+      "Chanakya",
+      "Banabhatta"
+    ],
+    "answer": "Vishnu Sharma",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q268",
+    "question": "Who was the captain of the Indian cricket team that won the 2011 Cricket World Cup?",
+    "options": [
+      "Sachin Tendulkar",
+      "Virender Sehwag",
+      "Gautam Gambhir",
+      "MS Dhoni"
+    ],
+    "answer": "MS Dhoni",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q269",
+    "question": "The instrument used to measure the purity of milk is called a...",
+    "options": [
+      "Hydrometer",
+      "Lactometer",
+      "Calorimeter",
+      "Polarimeter"
+    ],
+    "answer": "Lactometer",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q270",
+    "question": "The famous dialogue 'Pushpa, I hate tears' was spoken by which actor?",
+    "options": [
+      "Dharmendra",
+      "Amitabh Bachchan",
+      "Rajesh Khanna",
+      "Vinod Khanna"
+    ],
+    "answer": "Rajesh Khanna",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q271",
+    "question": "What is the name of the first indigenously developed web browser from India?",
+    "options": [
+      "Bharat",
+      "JioPages",
+      "Epic",
+      "Indus"
+    ],
+    "answer": "Epic",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q272",
+    "question": "'Giddha' is a popular folk dance performed by women in which Indian state?",
+    "options": [
+      "Haryana",
+      "Rajasthan",
+      "Punjab",
+      "Himachal Pradesh"
+    ],
+    "answer": "Punjab",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q273",
+    "question": "The Durand Cup is the oldest football tournament in Asia and is associated with which country?",
+    "options": [
+      "Japan",
+      "South Korea",
+      "Iran",
+      "India"
+    ],
+    "answer": "India",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q274",
+    "question": "The headquarters of the Tata Institute of Fundamental Research (TIFR) is in which city?",
+    "options": [
+      "Bengaluru",
+      "Pune",
+      "Mumbai",
+      "Delhi"
+    ],
+    "answer": "Mumbai",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q275",
+    "question": "What is the name of the talking computer in the film '2001: A Space Odyssey'?",
+    "options": [
+      "GLaDOS",
+      "HAL 9000",
+      "Skynet",
+      "VIKI"
+    ],
+    "answer": "HAL 9000",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q276",
+    "question": "The term 'gigabyte' refers to how many megabytes?",
+    "options": [
+      "100",
+      "1024",
+      "1000",
+      "Depends on the system"
+    ],
+    "answer": "1024",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q277",
+    "question": "In which state would you find the Charminar monument?",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Telangana",
+      "Maharashtra"
+    ],
+    "answer": "Telangana",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q278",
+    "question": "How many rings are there on the Olympic flag?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "5",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q279",
+    "question": "The human skeleton is composed of how many bones at birth?",
+    "options": [
+      "206",
+      "230",
+      "Around 300",
+      "350"
+    ],
+    "answer": "Around 300",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q280",
+    "question": "Which of these actors is commonly referred to as 'King Khan' in Bollywood?",
+    "options": [
+      "Salman Khan",
+      "Aamir Khan",
+      "Shah Rukh Khan",
+      "Saif Ali Khan"
+    ],
+    "answer": "Shah Rukh Khan",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q281",
+    "question": "What is 'phishing' in the context of cybersecurity?",
+    "options": [
+      "Installing a virus on a computer",
+      "A fraudulent attempt to obtain sensitive information",
+      "Overloading a server with traffic",
+      "Blocking access to a website"
+    ],
+    "answer": "A fraudulent attempt to obtain sensitive information",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q282",
+    "question": "The 'Kathasaritsagara', a famous 11th-century collection of Indian legends, was written by:",
+    "options": [
+      "Somadeva",
+      "Kalhana",
+      "Bilhana",
+      "Jayadeva"
+    ],
+    "answer": "Somadeva",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q283",
+    "question": "The term 'Free throw' is associated with which sport?",
+    "options": [
+      "Volleyball",
+      "Handball",
+      "Basketball",
+      "Water Polo"
+    ],
+    "answer": "Basketball",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q284",
+    "question": "Which gas is commonly filled in electric bulbs?",
+    "options": [
+      "Oxygen",
+      "Hydrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "answer": "Argon",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q285",
+    "question": "In the 'Harry Potter' series, what is the name of the school of witchcraft and wizardry?",
+    "options": [
+      "Durmstrang",
+      "Beauxbatons",
+      "Ilvermorny",
+      "Hogwarts"
+    ],
+    "answer": "Hogwarts",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q286",
+    "question": "Which company created the Java programming language?",
+    "options": [
+      "Microsoft",
+      "IBM",
+      "Sun Microsystems",
+      "Apple"
+    ],
+    "answer": "Sun Microsystems",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q287",
+    "question": "The great Indian emperor Ashoka belonged to which dynasty?",
+    "options": [
+      "Gupta Dynasty",
+      "Maurya Dynasty",
+      "Nanda Dynasty",
+      "Kushan Dynasty"
+    ],
+    "answer": "Maurya Dynasty",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q288",
+    "question": "Who was the first Indian to score a century in the Indian Premier League (IPL)?",
+    "options": [
+      "Gautam Gambhir",
+      "Virender Sehwag",
+      "Manish Pandey",
+      "Brendon McCullum"
+    ],
+    "answer": "Manish Pandey",
+    "category": "sports",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q289",
+    "question": "Which acid is found in lemon juice?",
+    "options": [
+      "Acetic acid",
+      "Citric acid",
+      "Lactic acid",
+      "Sulphuric acid"
+    ],
+    "answer": "Citric acid",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q290",
+    "question": "Who composed the music for the film 'Lagaan'?",
+    "options": [
+      "Anu Malik",
+      "Jatin-Lalit",
+      "Shankar-Ehsaan-Loy",
+      "A. R. Rahman"
+    ],
+    "answer": "A. R. Rahman",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q291",
+    "question": "A 'cookie' on the internet is a:",
+    "options": [
+      "Type of virus",
+      "Small text file stored on a user's computer",
+      "Pop-up advertisement",
+      "Security certificate"
+    ],
+    "answer": "Small text file stored on a user's computer",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q292",
+    "question": "Which of these is a famous cave complex in Mumbai known for its Hindu sculptures?",
+    "options": [
+      "Ajanta Caves",
+      "Ellora Caves",
+      "Elephanta Caves",
+      "Karla Caves"
+    ],
+    "answer": "Elephanta Caves",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q293",
+    "question": "Which country won the first-ever T20 Cricket World Cup in 2007?",
+    "options": [
+      "Pakistan",
+      "Australia",
+      "India",
+      "Sri Lanka"
+    ],
+    "answer": "India",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q294",
+    "question": "The metal used in the filament of an electric bulb is:",
+    "options": [
+      "Copper",
+      "Tungsten",
+      "Aluminium",
+      "Iron"
+    ],
+    "answer": "Tungsten",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q295",
+    "question": "The web series 'The Family Man' stars which actor in the lead role of Srikant Tiwari?",
+    "options": [
+      "Pankaj Tripathi",
+      "Manoj Bajpayee",
+      "Nawazuddin Siddiqui",
+      "Jaideep Ahlawat"
+    ],
+    "answer": "Manoj Bajpayee",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q296",
+    "question": "What does IP stand for in IP address?",
+    "options": [
+      "Internet Protocol",
+      "Internal Protocol",
+      "Internet Provider",
+      "Internal Provider"
+    ],
+    "answer": "Internet Protocol",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q297",
+    "question": "'A Suitable Boy' is a famous novel written by which Indian author?",
+    "options": [
+      "Arundhati Roy",
+      "Vikram Seth",
+      "Amitav Ghosh",
+      "Shashi Tharoor"
+    ],
+    "answer": "Vikram Seth",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q298",
+    "question": "What is the nickname of former Indian cricket captain Sourav Ganguly?",
+    "options": [
+      "Mahi",
+      "Cheeku",
+      "Dada",
+      "Jumbo"
+    ],
+    "answer": "Dada",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q299",
+    "question": "What is the chemical symbol for Silver?",
+    "options": [
+      "Si",
+      "Sv",
+      "Ag",
+      "Au"
+    ],
+    "answer": "Ag",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q300",
+    "question": "Which of these is a popular reality show where contestants perform dangerous stunts?",
+    "options": [
+      "Bigg Boss",
+      "Kaun Banega Crorepati",
+      "Khatron Ke Khiladi",
+      "Indian Idol"
+    ],
+    "answer": "Khatron Ke Khiladi",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q301",
+    "question": "What does HTML stand for?",
+    "options": [
+      "HyperText Markup Language",
+      "High-Level Text Machine Language",
+      "Hyperlink and Text Markup Language",
+      "Hyper-Transferable Machine Language"
+    ],
+    "answer": "HyperText Markup Language",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q302",
+    "question": "The Ajanta caves are predominantly known for their beautiful:",
+    "options": [
+      "Sculptures",
+      "Murals and paintings",
+      "Rock-cut temples",
+      "Pillars"
+    ],
+    "answer": "Murals and paintings",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q303",
+    "question": "Who is the first and only Indian tennis player to win the 'Career Grand Slam' in mixed doubles?",
+    "options": [
+      "Leander Paes",
+      "Sania Mirza",
+      "Mahesh Bhupathi",
+      "Rohan Bopanna"
+    ],
+    "answer": "Mahesh Bhupathi",
+    "category": "sports",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q304",
+    "question": "Which instrument is used to see distant objects like stars and planets?",
+    "options": [
+      "Microscope",
+      "Telescope",
+      "Periscope",
+      "Kaleidoscope"
+    ],
+    "answer": "Telescope",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q305",
+    "question": "Who directed the movie 'RRR', which won an Oscar for Best Original Song?",
+    "options": [
+      "Shankar",
+      "Mani Ratnam",
+      "S. S. Rajamouli",
+      "Prashanth Neel"
+    ],
+    "answer": "S. S. Rajamouli",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q306",
+    "question": "Which Indian city is known as the 'Pink City'?",
+    "options": [
+      "Jodhpur",
+      "Udaipur",
+      "Jaipur",
+      "Bikaner"
+    ],
+    "answer": "Jaipur",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q307",
+    "question": "Which of these is NOT a format of professional cricket?",
+    "options": [
+      "Test Match",
+      "One Day International",
+      "Twenty20",
+      "Super Sixes"
+    ],
+    "answer": "Super Sixes",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q308",
+    "question": "Which element's atomic number is 1?",
+    "options": [
+      "Oxygen",
+      "Helium",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "answer": "Hydrogen",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q309",
+    "question": "The famous TV character 'Jethalal Gada' belongs to which popular show?",
+    "options": [
+      "Bhabiji Ghar Par Hain!",
+      "The Kapil Sharma Show",
+      "Taarak Mehta Ka Ooltah Chashmah",
+      "Sarabhai vs Sarabhai"
+    ],
+    "answer": "Taarak Mehta Ka Ooltah Chashmah",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q310",
+    "question": "In which city were the headquarters of Infosys originally established?",
+    "options": [
+      "Bengaluru",
+      "Pune",
+      "Mumbai",
+      "Chennai"
+    ],
+    "answer": "Pune",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q311",
+    "question": "The dance form 'Odissi' originated in which Indian state?",
+    "options": [
+      "West Bengal",
+      "Bihar",
+      "Odisha",
+      "Jharkhand"
+    ],
+    "answer": "Odisha",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q312",
+    "question": "Which country will host the 2026 FIFA World Cup along with USA and Mexico?",
+    "options": [
+      "Brazil",
+      "Canada",
+      "Argentina",
+      "Costa Rica"
+    ],
+    "answer": "Canada",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q313",
+    "question": "What is the study of weather and climate called?",
+    "options": [
+      "Geology",
+      "Meteorology",
+      "Ecology",
+      "Hydrology"
+    ],
+    "answer": "Meteorology",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q314",
+    "question": "Who hosted the first season of the popular TV game show 'Kaun Banega Crorepati'?",
+    "options": [
+      "Shah Rukh Khan",
+      "Amitabh Bachchan",
+      "Anil Kapoor",
+      "Sanjay Dutt"
+    ],
+    "answer": "Amitabh Bachchan",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q315",
+    "question": "Which of these is a peer-to-peer file sharing protocol?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "BitTorrent"
+    ],
+    "answer": "BitTorrent",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q316",
+    "question": "The 'Gita Govinda', a text describing the relationship between Krishna and the gopis, was composed by which poet?",
+    "options": [
+      "Kalidasa",
+      "Jayadeva",
+      "Bhavabhuti",
+      "Bharavi"
+    ],
+    "answer": "Jayadeva",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q317",
+    "question": "In wrestling, what is the term for pinning an opponent's shoulders to the mat for a specified period?",
+    "options": [
+      "Takedown",
+      "Reversal",
+      "Fall",
+      "Escape"
+    ],
+    "answer": "Fall",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q318",
+    "question": "Which blood group is known as the 'universal donor'?",
+    "options": [
+      "A",
+      "B",
+      "AB",
+      "O"
+    ],
+    "answer": "O",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q319",
+    "question": "Which Indian state is the setting for the film 'Newton', India's official entry to the 2018 Oscars?",
+    "options": [
+      "Jharkhand",
+      "Odisha",
+      "Chhattisgarh",
+      "Bihar"
+    ],
+    "answer": "Chhattisgarh",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q320",
+    "question": "What does CSS stand for in web development?",
+    "options": [
+      "Creative Style Sheets",
+      "Computer Style Sheets",
+      "Cascading Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q321",
+    "question": "Who was the first Indian woman to win the Miss World title?",
+    "options": [
+      "Aishwarya Rai",
+      "Sushmita Sen",
+      "Reita Faria",
+      "Priyanka Chopra"
+    ],
+    "answer": "Reita Faria",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q322",
+    "question": "The 'Ranji Trophy' is a prestigious domestic tournament for which sport in India?",
+    "options": [
+      "Hockey",
+      "Football",
+      "Cricket",
+      "Kabaddi"
+    ],
+    "answer": "Cricket",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q323",
+    "question": "What is the phenomenon of light bending as it passes from one medium to another called?",
+    "options": [
+      "Reflection",
+      "Refraction",
+      "Diffraction",
+      "Dispersion"
+    ],
+    "answer": "Refraction",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q324",
+    "question": "The character 'Baburao Ganpatrao Apte' is a famous comic role from which film series?",
+    "options": [
+      "Golmaal",
+      "Dhamaal",
+      "Hera Pheri",
+      "Welcome"
+    ],
+    "answer": "Hera Pheri",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q325",
+    "question": "Which technology company uses the tagline 'Think Different'?",
+    "options": [
+      "Microsoft",
+      "Google",
+      "IBM",
+      "Apple"
+    ],
+    "answer": "Apple",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q326",
+    "question": "'Lavani' is a genre of music and traditional dance form popular in which Indian state?",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Rajasthan",
+      "Madhya Pradesh"
+    ],
+    "answer": "Maharashtra",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q327",
+    "question": "What is the standard distance of a one-day international (ODI) cricket match per innings?",
+    "options": [
+      "20 overs",
+      "40 overs",
+      "50 overs",
+      "60 overs"
+    ],
+    "answer": "50 overs",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q328",
+    "question": "What is the heaviest naturally occurring element?",
+    "options": [
+      "Gold",
+      "Lead",
+      "Uranium",
+      "Osmium"
+    ],
+    "answer": "Uranium",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q329",
+    "question": "Pandit Birju Maharaj was a leading exponent of which classical dance form?",
+    "options": [
+      "Kathakali",
+      "Kuchipudi",
+      "Odissi",
+      "Kathak"
+    ],
+    "answer": "Kathak",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q330",
+    "question": "Which of these is NOT a function of an Operating System?",
+    "options": [
+      "Memory Management",
+      "File Management",
+      "Web Browsing",
+      "Process Management"
+    ],
+    "answer": "Web Browsing",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q331",
+    "question": "The 'Brihadisvara Temple' at Thanjavur was built by which Chola king?",
+    "options": [
+      "Rajaraja Chola I",
+      "Rajendra Chola I",
+      "Vijayalaya Chola",
+      "Karikala Chola"
+    ],
+    "answer": "Rajaraja Chola I",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q332",
+    "question": "Milkha Singh, 'The Flying Sikh', narrowly missed an Olympic medal in which event?",
+    "options": [
+      "100m sprint",
+      "200m sprint",
+      "400m race",
+      "Marathon"
+    ],
+    "answer": "400m race",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q333",
+    "question": "What gas gives soft drinks their fizz?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon Dioxide"
+    ],
+    "answer": "Carbon Dioxide",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q334",
+    "question": "The fictional character 'Byomkesh Bakshi' is a:",
+    "options": [
+      "Spy",
+      "Thief",
+      "Detective",
+      "Magician"
+    ],
+    "answer": "Detective",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q335",
+    "question": "Which Indian company launched India's first electric car, the 'Reva'?",
+    "options": [
+      "Tata Motors",
+      "Mahindra & Mahindra",
+      "Reva Electric Car Company",
+      "Maruti Suzuki"
+    ],
+    "answer": "Reva Electric Car Company",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q336",
+    "question": "Which ancient university in India was a renowned centre for learning in ancient times, located in modern-day Bihar?",
+    "options": [
+      "Takshashila",
+      "Vikramshila",
+      "Nalanda",
+      "Valabhi"
+    ],
+    "answer": "Nalanda",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q337",
+    "question": "Who is the only cricketer to have taken two hat-tricks in the Indian Premier League (IPL)?",
+    "options": [
+      "Amit Mishra",
+      "Lasith Malinga",
+      "Yuvraj Singh",
+      "Rohit Sharma"
+    ],
+    "answer": "Yuvraj Singh",
+    "category": "sports",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q338",
+    "question": "What is the most common element in the universe?",
+    "options": [
+      "Oxygen",
+      "Helium",
+      "Hydrogen",
+      "Carbon"
+    ],
+    "answer": "Hydrogen",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q339",
+    "question": "The role of 'Circuit' is a popular sidekick to the main character in which film series?",
+    "options": [
+      "Hera Pheri",
+      "Dhamaal",
+      "Munna Bhai",
+      "Golmaal"
+    ],
+    "answer": "Munna Bhai",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q340",
+    "question": "Who is often called the 'father of email'?",
+    "options": [
+      "Tim Berners-Lee",
+      "Ray Tomlinson",
+      "Vint Cerf",
+      "Steve Crocker"
+    ],
+    "answer": "Ray Tomlinson",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q341",
+    "question": "'A Tale of Two Cities' is a famous historical novel by which British author?",
+    "options": [
+      "Jane Austen",
+      "Charles Dickens",
+      "George Orwell",
+      "Thomas Hardy"
+    ],
+    "answer": "Charles Dickens",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q342",
+    "question": "Deepika Kumari is a top-ranked Indian athlete in which sport?",
+    "options": [
+      "Shooting",
+      "Archery",
+      "Wrestling",
+      "Badminton"
+    ],
+    "answer": "Archery",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q343",
+    "question": "Which of these is a greenhouse gas?",
+    "options": [
+      "Nitrogen",
+      "Oxygen",
+      "Argon",
+      "Methane"
+    ],
+    "answer": "Methane",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q344",
+    "question": "The song 'Naatu Naatu' from the movie RRR was composed by:",
+    "options": [
+      "A. R. Rahman",
+      "Devi Sri Prasad",
+      "M. M. Keeravani",
+      "Anirudh Ravichander"
+    ],
+    "answer": "M. M. Keeravani",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q345",
+    "question": "The '.org' domain name is typically associated with what kind of entities?",
+    "options": [
+      "Organizations",
+      "Official government sites",
+      "Original content creators",
+      "Organized businesses"
+    ],
+    "answer": "Organizations",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q346",
+    "question": "The 'Gateway of India' is located in which city?",
+    "options": [
+      "New Delhi",
+      "Kolkata",
+      "Chennai",
+      "Mumbai"
+    ],
+    "answer": "Mumbai",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q347",
+    "question": "The sport of 'Jallikattu' is traditionally practiced in which Indian state?",
+    "options": [
+      "Karnataka",
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Kerala"
+    ],
+    "answer": "Tamil Nadu",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q348",
+    "question": "Which planet is known for its prominent rings?",
+    "options": [
+      "Jupiter",
+      "Saturn",
+      "Uranus",
+      "Neptune"
+    ],
+    "answer": "Saturn",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q349",
+    "question": "Who was the first Indian woman to go to space?",
+    "options": [
+      "Sunita Williams",
+      "Kalpana Chawla",
+      "Sirisha Bandla",
+      "Ritu Karidhal"
+    ],
+    "answer": "Kalpana Chawla",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q350",
+    "question": "What does ROM stand for in computing?",
+    "options": [
+      "Read-Only Memory",
+      "Random-Only Memory",
+      "Read-Once Memory",
+      "Removable Optical Media"
+    ],
+    "answer": "Read-Only Memory",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q351",
+    "question": "In which state is the classical dance form 'Kuchipudi' from?",
+    "options": [
+      "Karnataka",
+      "Tamil Nadu",
+      "Kerala",
+      "Andhra Pradesh"
+    ],
+    "answer": "Andhra Pradesh",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q352",
+    "question": "How many players are in a standard basketball team on the court at one time?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "11"
+    ],
+    "answer": "5",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q353",
+    "question": "Who is known as the 'Father of Genetics'?",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "James Watson"
+    ],
+    "answer": "Gregor Mendel",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q354",
+    "question": "Which of these is NOT a film directed by Christopher Nolan?",
+    "options": [
+      "Inception",
+      "The Dark Knight",
+      "Interstellar",
+      "Blade Runner 2049"
+    ],
+    "answer": "Blade Runner 2049",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q355",
+    "question": "The first successful large-scale Indian IT services company was:",
+    "options": [
+      "Infosys",
+      "Wipro",
+      "Tata Consultancy Services (TCS)",
+      "HCL"
+    ],
+    "answer": "Tata Consultancy Services (TCS)",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q356",
+    "question": "Who wrote the famous Hindi novel 'Godan'?",
+    "options": [
+      "Jaishankar Prasad",
+      "Mahadevi Verma",
+      "Munshi Premchand",
+      "Sumitranandan Pant"
+    ],
+    "answer": "Munshi Premchand",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q357",
+    "question": "The term 'dribbling' is associated with which of the following sports?",
+    "options": [
+      "Basketball",
+      "Football",
+      "Hockey",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q358",
+    "question": "What is the study of the universe's origin and development called?",
+    "options": [
+      "Astrology",
+      "Astronomy",
+      "Cosmology",
+      "Astrophysics"
+    ],
+    "answer": "Cosmology",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q359",
+    "question": "Which actress played the role of 'Geet' in the movie 'Jab We Met'?",
+    "options": [
+      "Priyanka Chopra",
+      "Kareena Kapoor",
+      "Katrina Kaif",
+      "Deepika Padukone"
+    ],
+    "answer": "Kareena Kapoor",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q360",
+    "question": "What does the acronym 'Wi-Fi' stand for?",
+    "options": [
+      "Wireless Fidelity",
+      "Wired Fidelity",
+      "Wireless Firewall",
+      "It doesn't stand for anything"
+    ],
+    "answer": "It doesn't stand for anything",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q361",
+    "question": "In which city is the 'India Gate' monument located?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Kolkata",
+      "Jaipur"
+    ],
+    "answer": "New Delhi",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q362",
+    "question": "Which of these is a traditional martial art form from Kerala?",
+    "options": [
+      "Gatka",
+      "Silambam",
+      "Kalaripayattu",
+      "Thang-Ta"
+    ],
+    "answer": "Kalaripayattu",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q363",
+    "question": "The speed of light in a vacuum is approximately:",
+    "options": [
+      "300,000 km/s",
+      "150,000 km/s",
+      "500,000 km/s",
+      "1,000,000 km/s"
+    ],
+    "answer": "300,000 km/s",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q364",
+    "question": "Who won the first season of the reality TV show 'Bigg Boss' (Hindi)?",
+    "options": [
+      "Rahul Roy",
+      "Ashutosh Kaushik",
+      "Vindu Dara Singh",
+      "Gautam Gulati"
+    ],
+    "answer": "Rahul Roy",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q365",
+    "question": "Which company created the popular 'Windows' operating system?",
+    "options": [
+      "Apple",
+      "IBM",
+      "Microsoft",
+      "Google"
+    ],
+    "answer": "Microsoft",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q366",
+    "question": "The famous 'Dilwara Temples' are located in which Indian state?",
+    "options": [
+      "Gujarat",
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Maharashtra"
+    ],
+    "answer": "Rajasthan",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q367",
+    "question": "The 'Summer Olympics' are held every how many years?",
+    "options": [
+      "2 years",
+      "3 years",
+      "4 years",
+      "5 years"
+    ],
+    "answer": "4 years",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q368",
+    "question": "Who proposed the 'Big Bang' theory?",
+    "options": [
+      "Albert Einstein",
+      "Stephen Hawking",
+      "Edwin Hubble",
+      "Georges Lemaître"
+    ],
+    "answer": "Georges Lemaître",
+    "category": "science",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q369",
+    "question": "Which of these streaming services is known for producing the series 'Made in Heaven'?",
+    "options": [
+      "Netflix",
+      "Amazon Prime Video",
+      "Disney+ Hotstar",
+      "SonyLIV"
+    ],
+    "answer": "Amazon Prime Video",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q370",
+    "question": "What does 'malware' stand for?",
+    "options": [
+      "Malicious software",
+      "Malevolent hardware",
+      "Mail-ware",
+      "Mainframe software"
+    ],
+    "answer": "Malicious software",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q371",
+    "question": "Rabindranath Tagore surrendered his knighthood in protest against which event?",
+    "options": [
+      "Partition of Bengal",
+      "Jallianwala Bagh massacre",
+      "Rowlatt Act",
+      "Simon Commission"
+    ],
+    "answer": "Jallianwala Bagh massacre",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q372",
+    "question": "The term 'deuce' is used in which of the following sports?",
+    "options": [
+      "Badminton",
+      "Tennis",
+      "Volleyball",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q373",
+    "question": "What unit is used to measure sound intensity?",
+    "options": [
+      "Hertz",
+      "Decibel",
+      "Volt",
+      "Watt"
+    ],
+    "answer": "Decibel",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q374",
+    "question": "Which actor is famous for his role as 'Sardar Khan' in 'Gangs of Wasseypur'?",
+    "options": [
+      "Nawazuddin Siddiqui",
+      "Pankaj Tripathi",
+      "Manoj Bajpayee",
+      "Irrfan Khan"
+    ],
+    "answer": "Manoj Bajpayee",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q375",
+    "question": "Which of these is a cloud storage service provided by Google?",
+    "options": [
+      "iCloud",
+      "OneDrive",
+      "Dropbox",
+      "Google Drive"
+    ],
+    "answer": "Google Drive",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q376",
+    "question": "The ancient Indus Valley Civilization site of Lothal is located in which modern-day Indian state?",
+    "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Punjab",
+      "Haryana"
+    ],
+    "answer": "Gujarat",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q377",
+    "question": "Who holds the record for the most goals scored in FIFA World Cup history?",
+    "options": [
+      "Lionel Messi",
+      "Ronaldo (Brazil)",
+      "Miroslav Klose",
+      "Pelé"
+    ],
+    "answer": "Miroslav Klose",
+    "category": "sports",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q378",
+    "question": "Which Indian scientist won the Nobel Prize in Physics in 1930?",
+    "options": [
+      "Homi J. Bhabha",
+      "Jagdish Chandra Bose",
+      "C. V. Raman",
+      "S. Chandrasekhar"
+    ],
+    "answer": "C. V. Raman",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q379",
+    "question": "Which was the first Indian sound film?",
+    "options": [
+      "Raja Harishchandra",
+      "Kisan Kanya",
+      "Alam Ara",
+      "Mother India"
+    ],
+    "answer": "Alam Ara",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q380",
+    "question": "In computing, what is the 'brain' of the computer?",
+    "options": [
+      "RAM",
+      "Hard Drive",
+      "Motherboard",
+      "CPU"
+    ],
+    "answer": "CPU",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q381",
+    "question": "The classical dance 'Manipuri' is from which state?",
+    "options": [
+      "Manipur",
+      "Mizoram",
+      "Meghalaya",
+      "Nagaland"
+    ],
+    "answer": "Manipur",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q382",
+    "question": "The Wankhede Stadium is a famous cricket ground located in which city?",
+    "options": [
+      "Kolkata",
+      "Chennai",
+      "Delhi",
+      "Mumbai"
+    ],
+    "answer": "Mumbai",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q383",
+    "question": "What is the chemical symbol for iron?",
+    "options": [
+      "Ir",
+      "Fe",
+      "In",
+      "I"
+    ],
+    "answer": "Fe",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q384",
+    "question": "The phrase 'How's the josh?' is a famous line from which Bollywood movie?",
+    "options": [
+      "Border",
+      "Lakshya",
+      "Uri: The Surgical Strike",
+      "Shershaah"
+    ],
+    "answer": "Uri: The Surgical Strike",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q385",
+    "question": "What does '.gov' domain extension usually represent?",
+    "options": [
+      "A non-profit organization",
+      "A commercial business",
+      "An educational institution",
+      "A government entity"
+    ],
+    "answer": "A government entity",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q386",
+    "question": "The Qutub Minar is located in which Indian city?",
+    "options": [
+      "Agra",
+      "Jaipur",
+      "Hyderabad",
+      "Delhi"
+    ],
+    "answer": "Delhi",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q387",
+    "question": "Who is often called the 'God of Cricket'?",
+    "options": [
+      "Kapil Dev",
+      "Sunil Gavaskar",
+      "Sachin Tendulkar",
+      "Virat Kohli"
+    ],
+    "answer": "Sachin Tendulkar",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q388",
+    "question": "Which of these is the outermost layer of the Earth?",
+    "options": [
+      "Mantle",
+      "Core",
+      "Crust",
+      "Lithosphere"
+    ],
+    "answer": "Crust",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q389",
+    "question": "Who is the lead singer of the famous British rock band 'Queen'?",
+    "options": [
+      "Roger Waters",
+      "Freddie Mercury",
+      "Robert Plant",
+      "Mick Jagger"
+    ],
+    "answer": "Freddie Mercury",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q390",
+    "question": "Which company is the largest producer of computer processors in the world?",
+    "options": [
+      "AMD",
+      "NVIDIA",
+      "Intel",
+      "Qualcomm"
+    ],
+    "answer": "Intel",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q391",
+    "question": "Sattriya is a classical dance form from which Indian state?",
+    "options": [
+      "Manipur",
+      "Odisha",
+      "Assam",
+      "West Bengal"
+    ],
+    "answer": "Assam",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q392",
+    "question": "The term 'love' in a game of tennis signifies what score?",
+    "options": [
+      "15",
+      "30",
+      "0",
+      "40"
+    ],
+    "answer": "0",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q393",
+    "question": "Which vitamin is synthesized in the skin by sunlight?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin E",
+      "Vitamin D"
+    ],
+    "answer": "Vitamin D",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q394",
+    "question": "What is the name of the organization that presents the Academy Awards (Oscars)?",
+    "options": [
+      "BAFTA",
+      "HFPA",
+      "AMPAS",
+      "SAG"
+    ],
+    "answer": "AMPAS",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q395",
+    "question": "What kind of device is a computer mouse?",
+    "options": [
+      "Output device",
+      "Storage device",
+      "Input device",
+      "Processing device"
+    ],
+    "answer": "Input device",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q396",
+    "question": "The Meenakshi Temple, a historic Hindu temple, is located in which Indian city?",
+    "options": [
+      "Kanchipuram",
+      "Madurai",
+      "Thanjavur",
+      "Rameswaram"
+    ],
+    "answer": "Madurai",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q397",
+    "question": "How many players are in a standard volleyball team on the court?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "6",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q398",
+    "question": "Which of these is the main component of natural gas?",
+    "options": [
+      "Butane",
+      "Propane",
+      "Methane",
+      "Ethane"
+    ],
+    "answer": "Methane",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q399",
+    "question": "In the TV series 'Game of Thrones', what is the name of Jon Snow's direwolf?",
+    "options": [
+      "Nymeria",
+      "Grey Wind",
+      "Ghost",
+      "Shaggydog"
+    ],
+    "answer": "Ghost",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q400",
+    "question": "What is a 'CAPTCHA' primarily used for?",
+    "options": [
+      "To track user data",
+      "To distinguish human users from bots",
+      "To speed up website loading",
+      "To store login information"
+    ],
+    "answer": "To distinguish human users from bots",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q401",
+    "question": "The 'Arthashastra', an ancient Indian treatise on statecraft and military strategy, is attributed to whom?",
+    "options": [
+      "Chandragupta Maurya",
+      "Ashoka",
+      "Chanakya",
+      "Bindusara"
+    ],
+    "answer": "Chanakya",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q402",
+    "question": "In which city were the first Asian Games held in 1951?",
+    "options": [
+      "Tokyo",
+      "Manila",
+      "New Delhi",
+      "Jakarta"
+    ],
+    "answer": "New Delhi",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q403",
+    "question": "The Bhabha Atomic Research Centre (BARC) is located in which city?",
+    "options": [
+      "Bengaluru",
+      "Kolkata",
+      "Chennai",
+      "Mumbai"
+    ],
+    "answer": "Mumbai",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q404",
+    "question": "Which of these actors played the lead role in the film 'Barfi!'?",
+    "options": [
+      "Shah Rukh Khan",
+      "Ranbir Kapoor",
+      "Aamir Khan",
+      "Hrithik Roshan"
+    ],
+    "answer": "Ranbir Kapoor",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q405",
+    "question": "The programming language Python was named after which comedy group?",
+    "options": [
+      "The Three Stooges",
+      "Monty Python",
+      "Laurel and Hardy",
+      "The Marx Brothers"
+    ],
+    "answer": "Monty Python",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q406",
+    "question": "The 'Golden Temple' is a major pilgrimage site for Sikhism located in which city?",
+    "options": [
+      "Ludhiana",
+      "Chandigarh",
+      "Patiala",
+      "Amritsar"
+    ],
+    "answer": "Amritsar",
+    "category": "art & literature",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q407",
+    "question": "The term 'slam dunk' is famously associated with which sport?",
+    "options": [
+      "Volleyball",
+      "Basketball",
+      "Handball",
+      "Tennis"
+    ],
+    "answer": "Basketball",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q408",
+    "question": "An adult human has how many teeth?",
+    "options": [
+      "28",
+      "30",
+      "32",
+      "34"
+    ],
+    "answer": "32",
+    "category": "science",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q409",
+    "question": "The 'Bandit Queen' film is a biographical movie about whom?",
+    "options": [
+      "Phoolan Devi",
+      "Putli Bai",
+      "Hasina Parkar",
+      "Santokben Jadeja"
+    ],
+    "answer": "Phoolan Devi",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q410",
+    "question": "Who founded the tech company Oracle Corporation?",
+    "options": [
+      "Bill Gates",
+      "Steve Jobs",
+      "Larry Ellison",
+      "Michael Dell"
+    ],
+    "answer": "Larry Ellison",
+    "category": "technology",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q411",
+    "question": "The folk art 'Phulkari' is a tradition of which Indian state?",
+    "options": [
+      "Haryana",
+      "Punjab",
+      "Rajasthan",
+      "Gujarat"
+    ],
+    "answer": "Punjab",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q412",
+    "question": "In a game of chess, which piece can only move diagonally?",
+    "options": [
+      "Rook",
+      "Knight",
+      "Bishop",
+      "Pawn"
+    ],
+    "answer": "Bishop",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q413",
+    "question": "Which country launched the first artificial satellite, Sputnik 1?",
+    "options": [
+      "USA",
+      "Soviet Union",
+      "China",
+      "Germany"
+    ],
+    "answer": "Soviet Union",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q414",
+    "question": "What is the name of the host in the reality TV show 'Roadies'?",
+    "options": [
+      "Rannvijay Singha",
+      "Sonu Sood",
+      "Prince Narula",
+      "All of the above have hosted"
+    ],
+    "answer": "All of the above have hosted",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q415",
+    "question": "What does PDF stand for?",
+    "options": [
+      "Portable Document Format",
+      "Printable Document File",
+      "Personal Data File",
+      "Portable Data Format"
+    ],
+    "answer": "Portable Document Format",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q416",
+    "question": "The great stupa at Sanchi was originally commissioned by which emperor?",
+    "options": [
+      "Chandragupta Maurya",
+      "Bindusara",
+      "Ashoka",
+      "Kanishka"
+    ],
+    "answer": "Ashoka",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q417",
+    "question": "The Thomas Cup is a prestigious international tournament for which sport?",
+    "options": [
+      "Tennis",
+      "Table Tennis",
+      "Badminton",
+      "Squash"
+    ],
+    "answer": "Badminton",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q418",
+    "question": "Which of these is NOT a part of the human eye?",
+    "options": [
+      "Cornea",
+      "Retina",
+      "Pupil",
+      "Cochlea"
+    ],
+    "answer": "Cochlea",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q419",
+    "question": "The character 'Kesariya Vilayati' or 'Bad Man' was a popular villain role played by which actor?",
+    "options": [
+      "Amrish Puri",
+      "Shakti Kapoor",
+      "Gulshan Grover",
+      "Paresh Rawal"
+    ],
+    "answer": "Gulshan Grover",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q420",
+    "question": "The concept of 'Cloud Computing' refers to:",
+    "options": [
+      "Storing data on your local computer",
+      "Using weather satellites for data transfer",
+      "Accessing computing services over the internet",
+      "A new type of laptop"
+    ],
+    "answer": "Accessing computing services over the internet",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q421",
+    "question": "In which city is the famous 'Dakshineswar Kali Temple' located?",
+    "options": [
+      "Varanasi",
+      "Puri",
+      "Kolkata",
+      "Guwahati"
+    ],
+    "answer": "Kolkata",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q422",
+    "question": "How many times did Lionel Messi win the FIFA Ballon d'Or award?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "answer": "8",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q423",
+    "question": "What is the process of splitting a heavy atomic nucleus into smaller ones called?",
+    "options": [
+      "Nuclear Fusion",
+      "Nuclear Fission",
+      "Radioactive Decay",
+      "Chain Reaction"
+    ],
+    "answer": "Nuclear Fission",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q424",
+    "question": "Which of these is a popular television series about a chemistry teacher who starts making methamphetamine?",
+    "options": [
+      "The Sopranos",
+      "The Wire",
+      "Breaking Bad",
+      "Mad Men"
+    ],
+    "answer": "Breaking Bad",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q425",
+    "question": "What does SQL stand for?",
+    "options": [
+      "Structured Query Language",
+      "Simple Query Language",
+      "Standard Query Language",
+      "System Query Logic"
+    ],
+    "answer": "Structured Query Language",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q426",
+    "question": "The rock-cut temples at Mahabalipuram were built under the patronage of which dynasty?",
+    "options": [
+      "Chola",
+      "Pandya",
+      "Pallava",
+      "Chalukya"
+    ],
+    "answer": "Pallava",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q427",
+    "question": "What does a 'maiden over' mean in cricket?",
+    "options": [
+      "An over where a wicket is taken",
+      "The first over of an innings",
+      "An over where no runs are scored",
+      "An over bowled by a debutant"
+    ],
+    "answer": "An over where no runs are scored",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q428",
+    "question": "Which gas is used in fire extinguishers?",
+    "options": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "answer": "Carbon Dioxide",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q429",
+    "question": "Who composed the background score for the movie 'Sholay'?",
+    "options": [
+      "Laxmikant-Pyarelal",
+      "Kalyanji-Anandji",
+      "R. D. Burman",
+      "S. D. Burman"
+    ],
+    "answer": "R. D. Burman",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q430",
+    "question": "Which company owns the Android operating system?",
+    "options": [
+      "Samsung",
+      "Microsoft",
+      "Google",
+      "Nokia"
+    ],
+    "answer": "Google",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q431",
+    "question": "The 'Natyashastra', a Sanskrit text on the performing arts, is attributed to which ancient scholar?",
+    "options": [
+      "Bharata Muni",
+      "Panini",
+      "Patanjali",
+      "Kapila"
+    ],
+    "answer": "Bharata Muni",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q432",
+    "question": "The Ryder Cup is a famous biennial competition in which sport?",
+    "options": [
+      "Tennis",
+      "Polo",
+      "Golf",
+      "Sailing"
+    ],
+    "answer": "Golf",
+    "category": "sports",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q433",
+    "question": "The deficiency of Iodine leads to which disease?",
+    "options": [
+      "Scurvy",
+      "Rickets",
+      "Goitre",
+      "Anaemia"
+    ],
+    "answer": "Goitre",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q434",
+    "question": "The first Indian to win a Grammy Award was?",
+    "options": [
+      "A. R. Rahman",
+      "Zakir Hussain",
+      "Ravi Shankar",
+      "Vishwa Mohan Bhatt"
+    ],
+    "answer": "Ravi Shankar",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q435",
+    "question": "Which of these is a programming language developed by Apple?",
+    "options": [
+      "Kotlin",
+      "Swift",
+      "Go",
+      "Dart"
+    ],
+    "answer": "Swift",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q436",
+    "question": "The Red Fort in Delhi was built by which Mughal emperor?",
+    "options": [
+      "Akbar",
+      "Jahangir",
+      "Shah Jahan",
+      "Aurangzeb"
+    ],
+    "answer": "Shah Jahan",
+    "category": "art & literature",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q437",
+    "question": "Who was the first recipient of the Major Dhyan Chand Khel Ratna Award (formerly Rajiv Gandhi Khel Ratna)?",
+    "options": [
+      "Sachin Tendulkar",
+      "Leander Paes",
+      "Viswanathan Anand",
+      "Karnam Malleswari"
+    ],
+    "answer": "Viswanathan Anand",
+    "category": "sports",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q438",
+    "question": "Which of these is NOT one of Newton's laws of motion?",
+    "options": [
+      "Law of Inertia",
+      "Law of Acceleration",
+      "Law of Action and Reaction",
+      "Law of Gravitation"
+    ],
+    "answer": "Law of Gravitation",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q439",
+    "question": "Who is the creator of the fictional universe of Middle-earth, featured in 'The Lord of the Rings'?",
+    "options": [
+      "J. K. Rowling",
+      "George R. R. Martin",
+      "C. S. Lewis",
+      "J. R. R. Tolkien"
+    ],
+    "answer": "J. R. R. Tolkien",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q440",
+    "question": "What is the name of the first operational electronic digital computer?",
+    "options": [
+      "COLOSSUS",
+      "ENIAC",
+      "UNIVAC",
+      "MARK I"
+    ],
+    "answer": "ENIAC",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q441",
+    "question": "The famous painting 'The Starry Night' was created by which artist?",
+    "options": [
+      "Pablo Picasso",
+      "Claude Monet",
+      "Vincent van Gogh",
+      "Salvador Dalí"
+    ],
+    "answer": "Vincent van Gogh",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q442",
+    "question": "India won its second Cricket World Cup in which year?",
+    "options": [
+      "2003",
+      "2007",
+      "2011",
+      "2015"
+    ],
+    "answer": "2011",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q443",
+    "question": "The headquarters of the Indian Space Research Organisation (ISRO) is located in which city?",
+    "options": [
+      "Sriharikota",
+      "Thiruvananthapuram",
+      "Bengaluru",
+      "Ahmedabad"
+    ],
+    "answer": "Bengaluru",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q444",
+    "question": "Which film won the first-ever National Film Award for Best Feature Film in 1954?",
+    "options": [
+      "Do Bigha Zamin",
+      "Pather Panchali",
+      "Shyamchi Aai",
+      "Mirza Ghalib"
+    ],
+    "answer": "Shyamchi Aai",
+    "category": "entertainment",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q445",
+    "question": "Who is the CEO of Tesla, Inc.?",
+    "options": [
+      "Jeff Bezos",
+      "Elon Musk",
+      "Tim Cook",
+      "Mark Zuckerberg"
+    ],
+    "answer": "Elon Musk",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q446",
+    "question": "'Chhau' is a semi-classical Indian dance with martial, tribal, and folk origins, popular in which region?",
+    "options": [
+      "Western India",
+      "Southern India",
+      "Eastern India",
+      "Northern India"
+    ],
+    "answer": "Eastern India",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q447",
+    "question": "The term 'butterfly stroke' is associated with which sport?",
+    "options": [
+      "Rowing",
+      "Diving",
+      "Swimming",
+      "Gymnastics"
+    ],
+    "answer": "Swimming",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q448",
+    "question": "What is the freezing point of water in Fahrenheit?",
+    "options": [
+      "0°F",
+      "32°F",
+      "100°F",
+      "-32°F"
+    ],
+    "answer": "32°F",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q449",
+    "question": "Who is the director of the 'Baahubali' film series?",
+    "options": [
+      "Shankar",
+      "S. S. Rajamouli",
+      "Mani Ratnam",
+      "Prashanth Neel"
+    ],
+    "answer": "S. S. Rajamouli",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q450",
+    "question": "The domain extension '.in' represents which country?",
+    "options": [
+      "Indonesia",
+      "Indiana",
+      "India",
+      "Ireland"
+    ],
+    "answer": "India",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q451",
+    "question": "Who wrote 'The Discovery of India' while imprisoned in Ahmednagar fort?",
+    "options": [
+      "Mahatma Gandhi",
+      "Sardar Patel",
+      "Jawaharlal Nehru",
+      "Subhas Chandra Bose"
+    ],
+    "answer": "Jawaharlal Nehru",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q452",
+    "question": "How many players are in a standard team for a game of field hockey?",
+    "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "answer": "11",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q453",
+    "question": "What does a Geiger counter measure?",
+    "options": [
+      "Earthquakes",
+      "Wind speed",
+      "Air pressure",
+      "Ionizing radiation"
+    ],
+    "answer": "Ionizing radiation",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q454",
+    "question": "Kishore Kumar was a legendary figure in Indian cinema, known primarily as a:",
+    "options": [
+      "Director",
+      "Actor",
+      "Playback Singer",
+      "All of the above"
+    ],
+    "answer": "All of the above",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q455",
+    "question": "Which company launched the first commercially successful personal computer, the 'Apple II'?",
+    "options": [
+      "IBM",
+      "Microsoft",
+      "Apple",
+      "Commodore"
+    ],
+    "answer": "Apple",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q456",
+    "question": "The caves of Ajanta and Ellora are famous for their rock-cut architecture belonging to which religions?",
+    "options": [
+      "Hinduism, Buddhism, and Jainism",
+      "Only Hinduism and Buddhism",
+      "Only Buddhism and Jainism",
+      "Only Buddhism"
+    ],
+    "answer": "Hinduism, Buddhism, and Jainism",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q457",
+    "question": "Which country is credited with inventing the sport of Kabaddi?",
+    "options": [
+      "Pakistan",
+      "Bangladesh",
+      "Sri Lanka",
+      "India"
+    ],
+    "answer": "India",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q458",
+    "question": "What is the common name for Acetylsalicylic acid?",
+    "options": [
+      "Aspirin",
+      "Paracetamol",
+      "Ibuprofen",
+      "Antacid"
+    ],
+    "answer": "Aspirin",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q459",
+    "question": "What is the name of the fictional city where Batman operates?",
+    "options": [
+      "Metropolis",
+      "Star City",
+      "Central City",
+      "Gotham City"
+    ],
+    "answer": "Gotham City",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q460",
+    "question": "What is a 'Trojan Horse' in computing?",
+    "options": [
+      "A type of computer hardware",
+      "A security software",
+      "Malware disguised as legitimate software",
+      "A network protocol"
+    ],
+    "answer": "Malware disguised as legitimate software",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q461",
+    "question": "The Buland Darwaza at Fatehpur Sikri was built by Akbar to commemorate his victory over which region?",
+    "options": [
+      "Bengal",
+      "Gujarat",
+      "Deccan",
+      "Rajasthan"
+    ],
+    "answer": "Gujarat",
+    "category": "art & literature",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q462",
+    "question": "The term 'Gambit' is most famously associated with which game?",
+    "options": [
+      "Bridge",
+      "Poker",
+      "Chess",
+      "Darts"
+    ],
+    "answer": "Chess",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q463",
+    "question": "India's first mission to the Sun is named:",
+    "options": [
+      "Suryayaan-1",
+      "Aditya-L1",
+      "Ravi-1",
+      "Bhaskar-1"
+    ],
+    "answer": "Aditya-L1",
+    "category": "science",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q464",
+    "question": "The movie 'Dil Chahta Hai' is often credited with portraying modern, urban Indian youth. Who directed it?",
+    "options": [
+      "Zoya Akhtar",
+      "Farhan Akhtar",
+      "Karan Johar",
+      "Aditya Chopra"
+    ],
+    "answer": "Farhan Akhtar",
+    "category": "entertainment",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q465",
+    "question": "Who is the current CEO of Microsoft?",
+    "options": [
+      "Bill Gates",
+      "Steve Ballmer",
+      "Satya Nadella",
+      "Sundar Pichai"
+    ],
+    "answer": "Satya Nadella",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q466",
+    "question": "The literary character Feluda, a private investigator, was created by which Indian filmmaker and writer?",
+    "options": [
+      "Ritwik Ghatak",
+      "Mrinal Sen",
+      "Satyajit Ray",
+      "Buddhadeb Dasgupta"
+    ],
+    "answer": "Satyajit Ray",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q467",
+    "question": "Who was the first batsman to score a double century in a One Day International (ODI) cricket match?",
+    "options": [
+      "Virender Sehwag",
+      "Rohit Sharma",
+      "Sachin Tendulkar",
+      "Chris Gayle"
+    ],
+    "answer": "Sachin Tendulkar",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q468",
+    "question": "Which of these is the largest moon in our solar system?",
+    "options": [
+      "Titan",
+      "Ganymede",
+      "Callisto",
+      "Moon (Earth's)"
+    ],
+    "answer": "Ganymede",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q469",
+    "question": "The iconic role of 'Anand' in the 1971 film of the same name was played by which actor?",
+    "options": [
+      "Amitabh Bachchan",
+      "Dharmendra",
+      "Rajesh Khanna",
+      "Sanjeev Kumar"
+    ],
+    "answer": "Rajesh Khanna",
+    "category": "entertainment",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q470",
+    "question": "What is the file format for a standard Microsoft Excel workbook?",
+    "options": [
+      ".docx",
+      ".pptx",
+      ".xlsx",
+      ".mdb"
+    ],
+    "answer": ".xlsx",
+    "category": "technology",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q471",
+    "question": "The festival of 'Hornbill' is celebrated annually in which Indian state?",
+    "options": [
+      "Mizoram",
+      "Manipur",
+      "Nagaland",
+      "Arunachal Pradesh"
+    ],
+    "answer": "Nagaland",
+    "category": "art & literature",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q472",
+    "question": "What is Virat Kohli's nickname?",
+    "options": [
+      "Mahi",
+      "Hitman",
+      "Cheeku",
+      "Gabbar"
+    ],
+    "answer": "Cheeku",
+    "category": "sports",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q473",
+    "question": "Which gas is responsible for the blue color of the sky?",
+    "options": [
+      "Scattering of light by air molecules",
+      "Presence of Oxygen",
+      "Presence of Ozone",
+      "Reflection from the sea"
+    ],
+    "answer": "Scattering of light by air molecules",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q474",
+    "question": "Which Bollywood actress is married to cricketer Virat Kohli?",
+    "options": [
+      "Priyanka Chopra",
+      "Deepika Padukone",
+      "Anushka Sharma",
+      "Katrina Kaif"
+    ],
+    "answer": "Anushka Sharma",
+    "category": "entertainment",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q475",
+    "question": "Which company created the first commercially available microprocessor?",
+    "options": [
+      "AMD",
+      "IBM",
+      "Intel",
+      "Motorola"
+    ],
+    "answer": "Intel",
+    "category": "technology",
+    "difficulty": 5,
+    "points": 10
+  },
+  {
+    "id": "q476",
+    "question": "Who is the author of the book 'The Inheritance of Loss', which won the 2006 Booker Prize?",
+    "options": [
+      "Arundhati Roy",
+      "Kiran Desai",
+      "Jhumpa Lahiri",
+      "Anita Desai"
+    ],
+    "answer": "Kiran Desai",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q477",
+    "question": "The term 'penalty shootout' is used to decide the winner in which sport?",
+    "options": [
+      "Cricket",
+      "Football",
+      "Rugby",
+      "Baseball"
+    ],
+    "answer": "Football",
+    "category": "sports",
+    "difficulty": 1,
+    "points": 1
+  },
+  {
+    "id": "q478",
+    "question": "The 'Higgs Boson' is also known by what nickname?",
+    "options": [
+      "The God Particle",
+      "The Ghost Particle",
+      "The Devil Particle",
+      "The Magic Particle"
+    ],
+    "answer": "The God Particle",
+    "category": "science",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q479",
+    "question": "Who is the director of the film 'Parasite', which won the Academy Award for Best Picture?",
+    "options": [
+      "Park Chan-wook",
+      "Bong Joon-ho",
+      "Lee Chang-dong",
+      "Kim Jee-woon"
+    ],
+    "answer": "Bong Joon-ho",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q480",
+    "question": "A group of 8 bits in computing is called a:",
+    "options": [
+      "Nibble",
+      "Word",
+      "Byte",
+      "Kilo"
+    ],
+    "answer": "Byte",
+    "category": "technology",
+    "difficulty": 2,
+    "points": 4
+  },
+  {
+    "id": "q481",
+    "question": "In which city is the 'Indian Museum', the oldest and largest museum in India, located?",
+    "options": [
+      "Delhi",
+      "Mumbai",
+      "Chennai",
+      "Kolkata"
+    ],
+    "answer": "Kolkata",
+    "category": "art & literature",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q482",
+    "question": "Which IPL team does Rohit Sharma currently captain?",
+    "options": [
+      "Mumbai Indians",
+      "Delhi Capitals",
+      "He is not a captain",
+      "Punjab Kings"
+    ],
+    "answer": "He is not a captain",
+    "category": "sports",
+    "difficulty": 3,
+    "points": 4
+  },
+  {
+    "id": "q483",
+    "question": "Which scientist is credited with discovering the electron?",
+    "options": [
+      "Ernest Rutherford",
+      "James Chadwick",
+      "J.J. Thomson",
+      "Niels Bohr"
+    ],
+    "answer": "J.J. Thomson",
+    "category": "science",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q484",
+    "question": "The film 'Slumdog Millionaire' is based on the novel 'Q & A' by which Indian author?",
+    "options": [
+      "Vikas Swarup",
+      "Chetan Bhagat",
+      "Aravind Adiga",
+      "Amish Tripathi"
+    ],
+    "answer": "Vikas Swarup",
+    "category": "entertainment",
+    "difficulty": 4,
+    "points": 10
+  },
+  {
+    "id": "q485",
+    "question": "What is the full form of the Indian digital payments system, NEFT?",
+    "options": [
+      "National Electronic Funds Transfer",
+      "New Electronic Funds Transfer",
+      "National E-commerce Funds Transaction",
+      "Network Enabled Funds Transfer"
+    ],
+    "answer": "National Electronic Funds Transfer",
+    "category": "technology",
+    "difficulty": 3,
+    "points": 4
+  }
+]

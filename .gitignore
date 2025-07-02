@@ -1,0 +1,37 @@
+# Node modules (essential)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# IDE-related
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+
+package-lock.json
+
+
+coverage/
+
+
+dist/
+build/
+
+
+*.local.json
