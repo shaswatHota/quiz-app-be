@@ -24,7 +24,6 @@ Thumbs.db
 *.sln
 
 
-package-lock.json
 
 
 coverage/
