@@ -115,7 +115,7 @@ function getNextQuestion(session) {
     }
 
     const question = preferredQuestions[Math.floor(Math.random() * preferredQuestions.length)];
-    return { id: question.id, question: question.question, options: question.options };
+    return { id: question.id, question: question.question, options: question.options, answer:question.answer };
 }
 
 async function updateOverallStats(session) {
@@ -152,6 +152,7 @@ app.get("/quiz/categories", (req, res) => {
 /**
  * [MODIFIED] Starts a new quiz session, accepting a category, and returns the first question.
  */
+
 app.post("/quiz/start", authenticateJwt, (req, res) => {
     const userId = req.user.id;
     const { category } = req.body; // Expects a category, e.g., "Science", "Technology"
@@ -168,22 +169,40 @@ app.post("/quiz/start", authenticateJwt, (req, res) => {
         currentStreak: 0,
         bestStreakInGame: 0,
         isCompleted: false
-    };
-
-    const firstQuestion = getNextQuestion(sessions[quizId]);
-    
-    if (!firstQuestion) {
-        return res.status(404).json({ error: "Could not load any questions for the selected category. Please try another one." });
-    }
-    
-    sessions[quizId].seenIds.push(firstQuestion.id);
+    };    
 
     res.json({
         message: `Quiz started in category: ${sessions[quizId].category}!`,
         quizId,
-        question: firstQuestion
+       
     });
 });
+
+app.get("/quiz/:quizId/next-question", authenticateJwt, (req, res) => {
+  const { quizId } = req.params;
+  const session = sessions[quizId];
+
+  if (!session) {
+    return res.status(404).json({ error: "Quiz session not found." });
+  }
+
+  if (session.userId !== req.user.id) {
+    return res.sendStatus(403); 
+  }
+
+  const question = getNextQuestion(session);
+  if (!question) {
+    session.isCompleted = true;
+    return res.status(404).json({ error: "No more questions available." });
+  }
+
+  session.seenIds.push(question.id);
+
+  res.json({
+    question
+  });
+});
+
 
 /**
  * [REFACTORED] Submits an answer, gets the result, and receives the next question.
@@ -279,7 +298,7 @@ app.get("/stats", authenticateJwt, async (req, res) => {
 
         if (!stats) {
             return res.json({
-                message: "No stats found. Complete a game to see your stats!",
+                message: "Complete a game to see your stats!",
                 stats: { gamesPlayed: 0, totalScore: 0, totalCorrect: 0, totalWrong: 0, accuracy: "0.00%", bestStreak: 0 }
             });
         }
