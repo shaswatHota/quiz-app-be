@@ -5,11 +5,11 @@ const fs = require('fs');
 const mongoose = require('mongoose');
 const ObjectId = mongoose.Types.ObjectId;
 require("dotenv").config();
-const { UserModel, StatsModel } = require("./db"); // Assuming this file exports both models
+const { UserModel, StatsModel } = require("./db"); 
 const cors = require('cors');
 const { v4: uuidv4 } = require('uuid');
 const jwt = require("jsonwebtoken");
-const JWT_SECRET = process.env.JWT_SECRET; // Best practice to use .env
+const JWT_SECRET = process.env.JWT_SECRET; 
 const bcryptjs = require('bcryptjs');
 const { authenticateJwt } = require('./middleware/auth');
 
@@ -21,14 +21,10 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json());
 
-// --- Globals ---
-const sessions = {}; // In-memory store for active quiz sessions
+const sessions = {}; 
 const allQuestions = JSON.parse(fs.readFileSync('./data.json', 'utf-8'));
 const QUIZ_LIMIT = 20;
 
-// =================================================================
-// AUTHENTICATION ROUTES (No changes needed)
-// =================================================================
 
 app.get('/me', authenticateJwt, async (req, res) => {
     try {
@@ -83,30 +79,18 @@ app.post('/signin', async function (req, res) {
     }
 });
 
-// =================================================================
-// REFACTORED QUIZ LOGIC
-// =================================================================
-
-// --- Helper Functions ---
-
-/**
- * [MODIFIED] Gets the next question, now with category awareness.
- */
 function getNextQuestion(session) {
-    // 1. Filter out questions that have already been seen
+    
     let availableQuestions = allQuestions.filter(q => !session.seenIds.includes(q.id));
 
-    // 2. Filter by category, if one was specified for the session
-    // If category is 'general' or not provided, it will use all available questions.
     if (session.category && session.category.toLowerCase() !== 'general') {
         availableQuestions = availableQuestions.filter(q => q.category && q.category.toLowerCase() === session.category.toLowerCase());
     }
 
     if (availableQuestions.length === 0) {
-        return null; // No more questions available for this criteria
+        return null; 
     }
 
-    // 3. Apply adaptive difficulty logic to the remaining pool
     let preferredQuestions = availableQuestions.filter(q => q.difficulty === session.currentDifficulty);
     if (preferredQuestions.length === 0) {
         preferredQuestions = availableQuestions.filter(q => Math.abs(q.difficulty - session.currentDifficulty) === 1);
@@ -137,31 +121,25 @@ async function updateOverallStats(session) {
 }
 
 
-// --- API Routes ---
 
-/**
- * [NEW] Returns a list of all available quiz categories.
- * This helps the frontend display the category selection options dynamically.
- */
 app.get("/quiz/categories", (req, res) => {
-    // Use a Set to ensure we only get unique category names
+    
     const categories = [...new Set(allQuestions.map(q => q.category).filter(Boolean))];
     res.json({ categories });
 });
 
 
-/**
- * [MODIFIED] Starts a new quiz session, accepting a category, and returns the first question.
- */
+
+ 
 
 app.post("/quiz/start", authenticateJwt, (req, res) => {
     const userId = req.user.id;
-    const { category } = req.body; // Expects a category, e.g., "Science", "Technology"
+    const { category } = req.body; 
     const quizId = uuidv4();
 
     sessions[quizId] = {
         userId,
-        category: category || 'general', // Default to 'general' if no category is provided
+        category: category || 'general', 
         score: 0,
         correct: 0,
         wrong: 0,
@@ -205,10 +183,8 @@ app.get("/quiz/:quizId/next-question", authenticateJwt, (req, res) => {
 });
 
 
-/**
- * [REFACTORED] Submits an answer, gets the result, and receives the next question.
- * This is the main endpoint used during a quiz. (No code change needed here, it relies on the modified helper)
- */
+
+ 
 app.post("/quiz/answer/:quizId", authenticateJwt, (req, res) => {
     try {
         const { quizId } = req.params;
@@ -229,7 +205,7 @@ app.post("/quiz/answer/:quizId", authenticateJwt, (req, res) => {
         let resultMessage = "";
 
         if (isCorrect) {
-            session.score += question.points || 10; // Use question points or default to 10
+            session.score += question.points || 10; 
             session.correct++;
             session.currentStreak++;
             session.currentDifficulty = Math.min(5, session.currentDifficulty + 1);
@@ -242,7 +218,7 @@ app.post("/quiz/answer/:quizId", authenticateJwt, (req, res) => {
         }
         session.bestStreakInGame = Math.max(session.bestStreakInGame, session.currentStreak);
 
-        // Check if the quiz is over
+        
         if (session.seenIds.length >= QUIZ_LIMIT) {
             session.isCompleted = true;
             updateOverallStats(session);
@@ -289,9 +265,9 @@ app.post("/quiz/answer/:quizId", authenticateJwt, (req, res) => {
     }
 });
 
-/**
- * [IMPROVED] Gets a user's overall, persistent statistics from the database.
- */
+
+ 
+ 
 app.get("/stats", authenticateJwt, async (req, res) => {
     try {
         const userId = req.user.id;
@@ -317,9 +293,9 @@ app.get("/stats", authenticateJwt, async (req, res) => {
     }
 });
 
-/**
- * [NEW] Gets the temporary results of a specific completed quiz.
- */
+
+ 
+ 
 app.get("/quiz/result/:quizId", authenticateJwt, (req, res) => {
     const { quizId } = req.params;
     const userId = req.user.id;
@@ -342,17 +318,17 @@ app.get("/quiz/result/:quizId", authenticateJwt, (req, res) => {
     });
 });
 
-app.delete("/quiz/:quizId", authenticateJwt, (req, res) => {
-    const { quizId } = req.params;
+app.delete("/quiz/:quizId", authenticateJwt, (req, res) => { //inmemory session deletion logic
+    const { quizId } = req.params; 
     const session = sessions[quizId];
 
     if (!session || session.userId !== req.user.id) {
         return res.status(404).json({ error: "Session not found or unauthorized." });
     }
 
-    delete sessions[quizId]; // ✅ delete from memory
+    delete sessions[quizId]; 
     res.json({ message: "Quiz session deleted successfully." });
 });
 
-// Start the server
+
 app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
