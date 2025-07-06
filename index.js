@@ -3,6 +3,7 @@
 const express = require('express');
 const fs = require('fs');
 const mongoose = require('mongoose');
+const ObjectId = mongoose.Types.ObjectId;
 require("dotenv").config();
 const { UserModel, StatsModel } = require("./db"); // Assuming this file exports both models
 const cors = require('cors');
@@ -115,12 +116,12 @@ function getNextQuestion(session) {
     }
 
     const question = preferredQuestions[Math.floor(Math.random() * preferredQuestions.length)];
-    return { id: question.id, question: question.question, options: question.options, answer:question.answer };
+    return { id: question.id, question: question.question, options: question.options, answer:question.answer, points:question.points };
 }
 
 async function updateOverallStats(session) {
     try {
-        await StatsModel.findOneAndUpdate({ userId: session.userId }, {
+        await StatsModel.findOneAndUpdate({ userId: new ObjectId(String(session.userId))}, {
             $inc: {
                 gamesPlayed: 1,
                 totalScore: session.score,
@@ -339,6 +340,18 @@ app.get("/quiz/result/:quizId", authenticateJwt, (req, res) => {
             category: session.category
         }
     });
+});
+
+app.delete("/quiz/:quizId", authenticateJwt, (req, res) => {
+    const { quizId } = req.params;
+    const session = sessions[quizId];
+
+    if (!session || session.userId !== req.user.id) {
+        return res.status(404).json({ error: "Session not found or unauthorized." });
+    }
+
+    delete sessions[quizId]; // ✅ delete from memory
+    res.json({ message: "Quiz session deleted successfully." });
 });
 
 // Start the server

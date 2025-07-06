@@ -11,10 +11,12 @@ const UserSchema = new Schema({
 const StatsSchema = new Schema({
     userId: ObjectId,
     quizId: {type: String, required : true},
-    totalScore: Number,
-    accuracy: Number,
-    bestStreak: Number,
-    gamePlayed: Number,
+    totalScore: { type: Number, default: 0 },
+    totalCorrect: { type: Number, default: 0 },
+    totalWrong: { type: Number, default: 0 },
+    gamesPlayed: { type: Number, default: 0 },
+    bestStreak: { type: Number, default: 0 },
+    accuracy: {type:Number, default:0}
 });
 
 const UserModel = mongoose.model('quiz-users', UserSchema);
