@@ -330,5 +330,5 @@ app.delete("/quiz/:quizId", authenticateJwt, (req, res) => { //inmemory session 
 });
 
 
-// app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
-module.exports = app;
+app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
+// module.exports = app;
