@@ -1,4 +1,3 @@
-// index.js
 
 const express = require('express');
 const fs = require('fs');
@@ -331,4 +330,5 @@ app.delete("/quiz/:quizId", authenticateJwt, (req, res) => { //inmemory session 
 });
 
 
-app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
+// app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
+module.exports = app;
