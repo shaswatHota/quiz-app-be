@@ -128,13 +128,25 @@ app.get("/quiz/categories", (req, res) => {
 });
 
 
-
+function cleanupOldSessions() {
+    const now = Date.now();
+    const SESSION_TIMEOUT = 1000 * 60 * 60; 
+    
+    for (const [quizId, session] of Object.entries(sessions)) {
+        if (now - session.createdAt > SESSION_TIMEOUT) {
+            delete sessions[quizId];
+        }
+    }
+}
  
 
 app.post("/quiz/start", authenticateJwt, (req, res) => {
     const userId = req.user.id;
     const { category } = req.body; 
     const quizId = uuidv4();
+
+    // Clean up old sessions periodically
+    cleanupOldSessions();
 
     sessions[quizId] = {
         userId,
@@ -146,13 +158,13 @@ app.post("/quiz/start", authenticateJwt, (req, res) => {
         currentDifficulty: 3,
         currentStreak: 0,
         bestStreakInGame: 0,
-        isCompleted: false
+        isCompleted: false,
+        createdAt: Date.now() // Add timestamp for cleanup
     };    
 
     res.json({
         message: `Quiz started in category: ${sessions[quizId].category}!`,
         quizId,
-       
     });
 });
 
@@ -234,28 +246,12 @@ app.post("/quiz/answer/:quizId", authenticateJwt, (req, res) => {
             });
         }
 
-        const nextQuestion = getNextQuestion(session);
-        if (!nextQuestion) {
-            session.isCompleted = true;
-            updateOverallStats(session);
-            return res.json({ 
-                message: "Quiz Completed! No more questions available in this category.", 
-                result: resultMessage,
-                finalStats: {
-                    quizId,
-                    score: session.score,
-                    correct: session.correct,
-                    wrong: session.wrong,
-                    bestStreak: session.bestStreakInGame
-                }
-            });
-        }
-        session.seenIds.push(nextQuestion.id);
 
         res.json({
             result: resultMessage,
             yourScore: session.score,
-            nextQuestion
+            questionsAnswered: session.seenIds.length,
+            questionsRemaining: QUIZ_LIMIT - session.seenIds.length
         });
 
     } catch (error) {
@@ -263,6 +259,8 @@ app.post("/quiz/answer/:quizId", authenticateJwt, (req, res) => {
         res.status(500).json({ error: 'An unexpected error occurred.' });
     }
 });
+
+
 
 
  
