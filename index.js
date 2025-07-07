@@ -99,6 +99,7 @@ function getNextQuestion(session) {
     }
 
     const question = preferredQuestions[Math.floor(Math.random() * preferredQuestions.length)];
+    console.log( question);
     return { id: question.id, question: question.question, options: question.options, answer:question.answer, points:question.points };
 }
 
@@ -145,7 +146,7 @@ app.post("/quiz/start", authenticateJwt, (req, res) => {
     const { category } = req.body; 
     const quizId = uuidv4();
 
-    // Clean up old sessions periodically
+    
     cleanupOldSessions();
 
     sessions[quizId] = {
@@ -159,7 +160,7 @@ app.post("/quiz/start", authenticateJwt, (req, res) => {
         currentStreak: 0,
         bestStreakInGame: 0,
         isCompleted: false,
-        createdAt: Date.now() // Add timestamp for cleanup
+        createdAt: Date.now() 
     };    
 
     res.json({
@@ -187,6 +188,7 @@ app.get("/quiz/:quizId/next-question", authenticateJwt, (req, res) => {
   }
 
   session.seenIds.push(question.id);
+  console.log("after push",session.seenIds)
 
   res.json({
     question
@@ -245,7 +247,7 @@ app.post("/quiz/answer/:quizId", authenticateJwt, (req, res) => {
                 }
             });
         }
-
+        console.log("seenId at end : ",session.seenIds)
 
         res.json({
             result: resultMessage,
@@ -315,17 +317,7 @@ app.get("/quiz/result/:quizId", authenticateJwt, (req, res) => {
     });
 });
 
-app.delete("/quiz/:quizId", authenticateJwt, (req, res) => { //inmemory session deletion logic
-    const { quizId } = req.params; 
-    const session = sessions[quizId];
 
-    if (!session || session.userId !== req.user.id) {
-        return res.status(404).json({ error: "Session not found or unauthorized." });
-    }
-
-    delete sessions[quizId]; 
-    res.json({ message: "Quiz session deleted successfully." });
-});
 
 
 app.listen(PORT, () => console.log(`Server running at http://localhost:${PORT}`));
